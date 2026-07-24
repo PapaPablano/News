@@ -3,10 +3,18 @@ import assert from "node:assert/strict";
 import { handleSearchRequest } from "./handler.js";
 
 const validResult = {
+  schemaVersion: 2,
   generatedAt: "2026-07-24T12:00:00.000Z",
   query: "Zoning change",
+  headline: "Council approves zoning change",
   consensus: "The council approved the change.",
-  narrative: [{ text: "It passed.", sources: ["AP"], stance: "corroborating" }],
+  sections: [
+    {
+      subheading: "What happened",
+      framingLabel: null,
+      sentences: [{ text: "It passed.", sources: ["AP"], disputed: false }]
+    }
+  ],
   disagreementGroups: [],
   sourceList: [{ name: "AP", url: "https://example.com/ap" }]
 };

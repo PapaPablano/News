@@ -1,10 +1,24 @@
 {
+  "schemaVersion": 2,
   "generatedAt": "2026-07-24T12:00:00.000Z",
   "query": "Sample Beat (replace me)",
+  "headline": "Sample beat headline (replace me)",
   "consensus": "This is a sample snapshot so you can see the layout before the real pipeline runs.",
-  "narrative": [
-    { "text": "This sentence is shown as agreed-upon coverage.", "sources": ["Reuters"], "stance": "corroborating" },
-    { "text": "This sentence is shown as a dissenting framing.", "sources": ["Local Tribune"], "stance": "dissenting" }
+  "sections": [
+    {
+      "subheading": "What happened",
+      "framingLabel": "Framed as good news:",
+      "sentences": [
+        { "text": "This sentence is shown as agreed-upon coverage.", "sources": ["Reuters"], "disputed": false }
+      ]
+    },
+    {
+      "subheading": "Reaction",
+      "framingLabel": "Framed critically:",
+      "sentences": [
+        { "text": "This sentence is shown as a dissenting framing.", "sources": ["Local Tribune"], "disputed": true }
+      ]
+    }
   ],
   "disagreementGroups": [
     { "stance": "Framed as good news", "sources": ["Reuters"] },

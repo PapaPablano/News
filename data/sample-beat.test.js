@@ -9,6 +9,16 @@ test("fixture archive entry passes validateSynthesis", async () => {
   assert.equal(valid, true, errors.join("; "));
 });
 
+test("fixture archive entry uses the new headline/sections shape", async () => {
+  const raw = await readFile(new URL("./sample-beat/2026-07-24T12-00-00-000Z.json", import.meta.url), "utf8");
+  const data = JSON.parse(raw);
+  assert.equal(typeof data.headline, "string");
+  assert.ok(data.headline.length > 0);
+  assert.ok(Array.isArray(data.sections));
+  assert.ok(data.sections.length > 0);
+  assert.equal(data.narrative, undefined, "narrative should no longer be present on new fixtures");
+});
+
 test("index.json points at an existing entry file", async () => {
   // sample-beat is also the demo beat the live scheduled workflow refreshes,
   // so index.json accumulates real entries over time alongside the original
