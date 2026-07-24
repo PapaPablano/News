@@ -1,11 +1,17 @@
 import { escapeHtml } from "./render-article.js";
 import { loadBeatSummaries } from "./beat-discovery.js";
 
+function renderDisagreementIndicator(disagreementGroups) {
+  if (!disagreementGroups || disagreementGroups.length === 0) return "";
+  return `<span class="disagreement-indicator">⚠ Sources disagree</span>`;
+}
+
 function renderBeatCard(summary) {
+  const headlineText = summary.headline || summary.consensus;
   return `
     <a class="beat-card" href="beat.html?beat=${encodeURIComponent(summary.slug)}">
       <h3>${escapeHtml(summary.label)}</h3>
-      <p>${escapeHtml(summary.consensus)}</p>
+      <p>${escapeHtml(headlineText)}${renderDisagreementIndicator(summary.disagreementGroups)}</p>
       <p class="timestamp">${new Date(summary.generatedAt).toLocaleString()}</p>
     </a>
   `;
