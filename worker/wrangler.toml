@@ -4,3 +4,7 @@ compatibility_date = "2026-07-24"
 
 [vars]
 ANTHROPIC_MODEL = "claude-sonnet-5"
+
+[[kv_namespaces]]
+binding = "RATE_LIMIT_KV"
+id = "e4f29094a1c54374a17eda5d4e37e1e9"

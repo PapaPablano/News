@@ -1,5 +1,8 @@
 import Anthropic from "@anthropic-ai/sdk";
 import { handleSearchRequest } from "./handler.js";
+import { rateLimitKeyForHour, isOverLimit } from "./rate-limit.js";
+
+const RATE_LIMIT_PER_HOUR = 30;
 
 const CORS_HEADERS = {
   "Access-Control-Allow-Origin": "*",
@@ -27,6 +30,16 @@ export default {
     if (!providedSecret || providedSecret !== env.SEARCH_PROXY_SECRET) {
       return jsonResponse(401, { error: "Unauthorized" });
     }
+
+    const rateLimitKey = rateLimitKeyForHour();
+    const currentCountRaw = await env.RATE_LIMIT_KV.get(rateLimitKey);
+    const currentCount = currentCountRaw ? parseInt(currentCountRaw, 10) : 0;
+    if (isOverLimit(currentCount, RATE_LIMIT_PER_HOUR)) {
+      return jsonResponse(429, { error: "Rate limit exceeded, try again later" });
+    }
+    // expirationTtl comfortably outlives the hour bucket so a slightly-late
+    // write near the boundary still expires instead of leaking into the next.
+    await env.RATE_LIMIT_KV.put(rateLimitKey, String(currentCount + 1), { expirationTtl: 3700 });
 
     let body;
     try {
