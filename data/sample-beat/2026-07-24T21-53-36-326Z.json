@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-07-24T21:53:36.326Z",
+  "query": "Sample Beat (replace me)",
+  "headline": "A placeholder query returned a heterogeneous batch of unrelated articles linked only by incidental use of the words 'topic' or 'examples'.",
+  "consensus": "None of the retrieved sources describe the same news event; they are disconnected pieces from reference sites, corporate blogs, academic journals, and news outlets that happen to share overlapping keywords with the search query.",
+  "sections": [
+    {
+      "subheading": "Technical and academic uses of 'topic modeling'",
+      "framingLabel": null,
+      "sentences": [
+        {
+          "text": "Several results are unrelated technical guides that use the word 'topic' in a narrow, domain-specific sense.",
+          "sources": [
+            "Amazon Web Services (AWS)"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "AWS published guidance on best practices for multi-dataset topics in its Amazon Quick Chat product and on streamlining Apache Kafka topic management with Amazon MSK.",
+          "sources": [
+            "Amazon Web Services (AWS)"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "The Tax Adviser separately covered how to calculate and present state income tax effects under ASC Topic 740, an accounting standard rather than a news event.",
+          "sources": [
+            "The Tax Adviser"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "A cluster of Nature and Frontiers papers applied 'topic modeling,' a statistical text-analysis technique, to unrelated research areas including Spanish-language incel discourse on X, German television's climate change coverage, multi-omic gut microbiome data linked to autism, and gendered expectations in student critiques of lecturers.",
+          "sources": [
+            "Nature",
+            "Frontiers"
+          ],
+          "disputed": false
+        }
+      ]
+    },
+    {
+      "subheading": "How-to and 'examples' content",
+      "framingLabel": null,
+      "sentences": [
+        {
+          "text": "A separate group of results are practical guides organized around the word 'examples' rather than any shared news topic.",
+          "sources": [
+            "We Are Teachers",
+            "No Film School",
+            "Hostinger",
+            "Verywell Mind"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "We Are Teachers offered ten lesson plan examples with teaching tips, No Film School explained five essential movie themes with iconic film examples, Hostinger compiled 55 blog examples to inspire bloggers in 2026, and Verywell Mind ranked the ten best and worst small talk topics.",
+          "sources": [
+            "We Are Teachers",
+            "No Film School",
+            "Hostinger",
+            "Verywell Mind"
+          ],
+          "disputed": false
+        }
+      ]
+    },
+    {
+      "subheading": "Encyclopedia reference entries",
+      "framingLabel": null,
+      "sentences": [
+        {
+          "text": "Encyclopedia Britannica contributed two standalone reference entries unrelated to a current event.",
+          "sources": [
+            "Encyclopedia Britannica"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "One entry covers the history, meaning, and examples of antisemitism, while the other traces the history and notable examples of fake news, including the Great Moon Hoax, the 'War of the Worlds' broadcast panic, and coverage of the 2016 U.S. election.",
+          "sources": [
+            "Encyclopedia Britannica"
+          ],
+          "disputed": false
+        }
+      ]
+    },
+    {
+      "subheading": "Unrelated current-affairs items",
+      "framingLabel": null,
+      "sentences": [
+        {
+          "text": "Two genuine news stories appear in the batch but concern different subjects entirely.",
+          "sources": [
+            "ABC News & Headlines – Australian Broadcasting Corporation",
+            "National Conference of State Legislatures"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "ABC News reported that female AFL content creators described vile online comments as just one example of the abuse they regularly face, while the National Conference of State Legislatures noted that vaccine policy remains a topic of ongoing interest for state legislatures.",
+          "sources": [
+            "ABC News & Headlines – Australian Broadcasting Corporation",
+            "National Conference of State Legislatures"
+          ],
+          "disputed": false
+        }
+      ]
+    }
+  ],
+  "disagreementGroups": [],
+  "sourceList": [
+    {
+      "name": "Encyclopedia Britannica",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxRnNldnFQbVE3amVrY3RtZHJ1OWo2cHRkemVuY1c0SGNBYjVUQTdhX3JJcnl0RWFPUHdBZFh4Rm5YSHlNRExrTkZuQzhkYjQxNlc5cnRIT1E?oc=5"
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd05JVmxnckNRVGZZbGdra2t4VmFzT3E5aFBiRUw5SDE0di01dVRuWWd0cFdWdmp2MzJwblN4eXBuY0lYc2FQMnFaNzY0Rm9HSk5rQjVweVJMVENhZlYxMnp1QWdycmxmaDlnS3FFR3p5VHdDelplRl8xQmhVZkhSUXRwTFdTMjcwMXRNNFhlS3VlTDVYeEVNbV9sZHFyMjV3cndYVjN3?oc=5"
+    },
+    {
+      "name": "The Tax Adviser",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYndBZWEyWjVuOGNaRnlVall3elNxb0JCekNpYV9zS3VRTDE5RG5DZ2J5enBRSzZxUzY4UVRTQV96RU5WM1A5Tk9YMU9NckxGbk1WSjVjMUJaZlg3S0RqM2xzTGQ5YnBnYmVmbGh4c3NQZjk4Z2k4SDVXbW5PdmZ3bkN2X3RoWXp1dUMzd3dsbWtpVDZiLUdubTZGQmpPeThrS3VLcnFlektNZDB6djg5T1FiUDBxTW1ROVE?oc=5"
+    },
+    {
+      "name": "We Are Teachers",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85MHRXM2RKc1VRc1BoTlNIY01NLUZRclZici0tVEY1Tk5rdGlfYnVLVVJCRk9hckUwRFdoczlRRnpNdmI2Q3F5ME5kMVFOMGlRNVBnWjB3WV9DNk9QUHc4UQ?oc=5"
+    },
+    {
+      "name": "Verywell Mind",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GcTlWMTJPUFRuWU5EN1FLclB6ZHFzMXZtWTM2V1l0MkhaNFg4c0xMcUczOFFpSEhielQ4MHZveXFrVG5VT1RYandHNWdPOWZJLTVKR2o3T3ByRG83OXZ0d0pWY2I?oc=5"
+    },
+    {
+      "name": "No Film School",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xNUNMcTNKMGUwTXlVaEh3VG1QX1dvYWowRUZseUxmM2xMWU1wMXdJTXNVWVZ3cGRxbE5paUtJQVdJcGswYUVyWXlqNHJzQ0F3dEpJUC1Ndk5ZbnJINHAxR0luS0FGWk9lVW1FejlRV1o?oc=5"
+    },
+    {
+      "name": "Hostinger",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzZ2RjZVJHOFhrTjlhWmlvYkl3QUNqSWNzeG9xNktnRmk5N3o0ZDJBdGpVVHNqbHpaTEZUWVlBWE9XcVlJM0R6cWswSkpTWFdmUGRWd1dUZHdGbTB3eDRv?oc=5"
+    },
+    {
+      "name": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeHFVVkdUVWhKVXFZNE1nYTR5b2o1R0wtVjZ2VDdYRGNNMVF6SWw3bFFEaFdqSmtaQWVvQlFpeWo5eXZ6elM0TmhPRUdPX1BhaGpxN0Z5dE5mRjdhX3pLVm1KbkxBV1ludW5JMnNTQjczVXZzYXRhMUhrRHdlb2R2dm1qNV85ZENNTEJiT2lCaW9sTzZqb2RERXVhNlpkbXJjdzc1M3Jn?oc=5"
+    },
+    {
+      "name": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xNUFWTkdpaGctdXFFa0lQcFlmZDBTbldNRFluWnB3QnBkWWs5M3ZsY3E0MXhac2JuQnlKbi1ETENoWFJhV0VIaGljLTZGbVRaQ0EzTUhLNnpfX0xZTmFZ?oc=5"
+    },
+    {
+      "name": "Frontiers",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQlFHTXFoLVVpYTlFOHFWNGtRUnBPZDQwa2k3QnFLTUNRTEpoa0h5THhuMFdzZWlqT2J3Q3A2R2tMemMzaHRFR1RVb1AtS0VibnFZVWNJS2haWndyQWNaekt4T3dwZ0hqMjZJelVHb25pcUNhYzlWbkc4SE8xcHY1VjlBdFdmTWlkV2xvMFFTZ0Y?oc=5"
+    },
+    {
+      "name": "National Conference of State Legislatures",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRHJoSGRXZGk2RFpjZ0JIQ3g5VkREdTU5aU5pck1MRXNyYzhISk94dk1pbVdwcjdGYnhVZGVoWkNtMEFDZHc3Vnc2cTRNQUZ1djRoM3BKMkg4MzRuY3gxWWFOXzdEekRxYVcwNXYxNFJQRGJjZkdnZ2FUQkdxRl9qOXBDQVJvbVd6NmQwN2cxTW15a2ZzY1Vfb285U05RaUg0Qjg0ZkhMSQ?oc=5"
+    }
+  ]
+}
