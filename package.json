@@ -1,0 +1,12 @@
+{
+  "name": "news-synthesis-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test schema/*.test.js data/*.test.js js/*.test.js scripts/lib/*.test.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.0",
+    "fast-xml-parser": "^4.5.0"
+  }
+}
