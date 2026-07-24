@@ -1,0 +1,17 @@
+{
+  "generatedAt": "2026-07-24T12:00:00.000Z",
+  "query": "Sample Beat (replace me)",
+  "consensus": "This is a sample snapshot so you can see the layout before the real pipeline runs.",
+  "narrative": [
+    { "text": "This sentence is shown as agreed-upon coverage.", "sources": ["Reuters"], "stance": "corroborating" },
+    { "text": "This sentence is shown as a dissenting framing.", "sources": ["Local Tribune"], "stance": "dissenting" }
+  ],
+  "disagreementGroups": [
+    { "stance": "Framed as good news", "sources": ["Reuters"] },
+    { "stance": "Framed critically", "sources": ["Local Tribune"] }
+  ],
+  "sourceList": [
+    { "name": "Reuters", "url": "https://example.com/reuters-sample" },
+    { "name": "Local Tribune", "url": "https://example.com/tribune-sample" }
+  ]
+}
