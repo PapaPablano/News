@@ -1,5 +1,6 @@
 import { buildSynthesisPrompt } from "../../schema/build-prompt.js";
 import { validateSynthesis } from "../../schema/validate-synthesis.js";
+import { extractJson } from "../../schema/extract-json.js";
 
 export async function handleSearchRequest({ query, client, model }) {
   if (!query) {
@@ -27,7 +28,7 @@ export async function handleSearchRequest({ query, client, model }) {
 
   let parsed;
   try {
-    parsed = JSON.parse(text);
+    parsed = extractJson(text);
   } catch (err) {
     return { status: 502, body: { error: `Claude did not return valid JSON: ${err.message}` } };
   }
