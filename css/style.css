@@ -106,3 +106,89 @@ body {
 .error {
   color: var(--dissent);
 }
+
+/* Article headline (render-article.js emits a bare <h1>, no wrapper class --
+   scoped to <article> so it doesn't affect other h1s on the page) */
+article h1 {
+  font-size: 28px;
+  font-weight: 800;
+  line-height: 1.25;
+  margin: 0 0 8px 0;
+}
+
+/* Shared R8 disagreement indicator -- base class is used both as a static
+   <span> (front-page card) and as a clickable <a> (article page); only the
+   --link modifier below gets interactive styling. */
+.disagreement-indicator {
+  display: inline-block;
+  background: var(--dissent);
+  color: #fff;
+  border-radius: 999px;
+  padding: 2px 10px;
+  font-size: 12px;
+  font-weight: bold;
+  text-decoration: none;
+  margin-top: 4px;
+}
+
+.disagreement-indicator--link {
+  cursor: pointer;
+}
+
+.disagreement-indicator--link:hover {
+  filter: brightness(0.85);
+}
+
+.disagreement-indicator--link:focus-visible {
+  outline: 2px solid var(--dissent);
+  outline-offset: 2px;
+}
+
+.section {
+  margin: 20px 0;
+}
+
+.section + .section {
+  border-top: 1px solid var(--border);
+  padding-top: 16px;
+}
+
+.section h3 {
+  font-size: 17px;
+  font-weight: bold;
+  margin: 0 0 8px 0;
+}
+
+.framing-label {
+  font-weight: bold;
+}
+
+.disputed-sentence {
+  color: var(--dissent);
+  text-decoration: underline dotted;
+}
+
+.section-sources {
+  font-size: 12px;
+  opacity: 0.7;
+  margin-top: 4px;
+}
+
+.related-strip {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 24px 0;
+  font-size: 13px;
+}
+
+.related-strip-item {
+  color: inherit;
+  text-decoration: none;
+  opacity: 0.8;
+}
+
+.related-strip-item:hover {
+  opacity: 1;
+  text-decoration: underline;
+}
