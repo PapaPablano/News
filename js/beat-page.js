@@ -1,4 +1,6 @@
 import { renderArticle, escapeHtml } from "./render-article.js";
+import { loadBeatSummaries, pickOthers } from "./beat-discovery.js";
+import { renderRelatedStrip } from "./related-strip.js";
 
 function renderHistoryStrip(index, slug, activeEntry) {
   if (!Array.isArray(index?.entries)) {
@@ -56,6 +58,14 @@ async function loadBeatPage() {
     renderHistoryStrip(index, slug, entryParam);
   } catch (err) {
     console.warn("renderHistoryStrip failed; leaving rendered article in place.", err);
+  }
+
+  try {
+    const summaries = await loadBeatSummaries(beats);
+    const others = pickOthers(summaries, slug, 3);
+    document.getElementById("related-strip").innerHTML = renderRelatedStrip(others);
+  } catch (err) {
+    console.warn("Related-strip rendering failed; leaving rendered article in place.", err);
   }
 }
 

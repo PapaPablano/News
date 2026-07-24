@@ -1,4 +1,6 @@
 import { renderArticle } from "./render-article.js";
+import { loadBeatSummaries, pickOthers } from "./beat-discovery.js";
+import { renderRelatedStrip } from "./related-strip.js";
 
 const WORKER_URL = "https://news-synthesis-worker.epeterson0076.workers.dev";
 const SEARCH_PROXY_SECRET = "194d61fa03cfa2b2cf9183d573988a0ab876eddebff7a733271c4bcc63eb0b2e";
@@ -9,7 +11,9 @@ async function handleSearch(event) {
   if (!query) return;
 
   const content = document.getElementById("content");
+  const relatedStrip = document.getElementById("related-strip");
   content.innerHTML = "<p>Searching…</p>";
+  if (relatedStrip) relatedStrip.innerHTML = "";
 
   try {
     const res = await fetch(WORKER_URL, {
@@ -27,6 +31,16 @@ async function handleSearch(event) {
     content.innerHTML = renderArticle(data);
   } catch (err) {
     content.innerHTML = `<p class="error">Search failed, try again. (${err.message})</p>`;
+    return;
+  }
+
+  try {
+    const beats = await (await fetch("beats.json")).json();
+    const summaries = await loadBeatSummaries(beats);
+    const others = pickOthers(summaries, null, 3);
+    if (relatedStrip) relatedStrip.innerHTML = renderRelatedStrip(others);
+  } catch (err) {
+    console.warn("Related-strip rendering failed; leaving rendered article in place.", err);
   }
 }
 
