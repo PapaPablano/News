@@ -1,0 +1,148 @@
+{
+  "generatedAt": "2026-07-24T18:31:28.302Z",
+  "query": "Sample Beat (replace me)",
+  "consensus": "The gathered articles do not report on a single news event; rather, they are a disparate set of pieces that happen to share the word 'topic' (or a related keyword) in their titles, spanning reference explainers, academic research, business guidance, and news reports.",
+  "narrative": [
+    {
+      "text": "A cluster of reference-style explainers uses the framing of 'topic' loosely to define and illustrate broad concepts for general readers.",
+      "sources": [
+        "Encyclopedia Britannica"
+      ],
+      "stance": "corroborating"
+    },
+    {
+      "text": "Encyclopedia Britannica separately offers a historical overview of antisemitism and a distinct explainer on the phenomenon of fake news, treating each as an educational reference topic rather than breaking news.",
+      "sources": [
+        "Encyclopedia Britannica"
+      ],
+      "stance": "corroborating"
+    },
+    {
+      "text": "Practical how-to guides extend this reference approach into everyday skills, with We Are Teachers providing lesson-plan examples and expert tips, Verywell Mind ranking best and worst small-talk topics, No Film School explaining core movie themes through iconic examples, and Hostinger curating blog examples to inspire content creators.",
+      "sources": [
+        "We Are Teachers",
+        "Verywell Mind",
+        "No Film School",
+        "Hostinger"
+      ],
+      "stance": "corroborating"
+    },
+    {
+      "text": "A separate strand of coverage applies the technical method of 'topic modeling' across unrelated scientific domains.",
+      "sources": [
+        "Nature"
+      ],
+      "stance": "corroborating"
+    },
+    {
+      "text": "Nature-published research uses topic modeling to analyze incel discourse among Spanish-speaking X users, German television's climate change coverage, multi-omic data in the human gut microbiome linked to autism, and age-dependent comorbidity patterns in the UK Biobank tied to genetic disease risk.",
+      "sources": [
+        "Nature"
+      ],
+      "stance": "corroborating"
+    },
+    {
+      "text": "Frontiers contributes a related but distinct academic application, using topic modeling to study students' gendered expectations of lecturers based on survey critiques.",
+      "sources": [
+        "Frontiers"
+      ],
+      "stance": "corroborating"
+    },
+    {
+      "text": "Business and technical publications address 'topic' in operational or regulatory senses unconnected to the academic or reference clusters.",
+      "sources": [
+        "The Tax Adviser",
+        "Amazon Web Services (AWS)"
+      ],
+      "stance": "corroborating"
+    },
+    {
+      "text": "The Tax Adviser details how firms should calculate and present state income tax effects under ASC Topic 740, while AWS explains how Amazon MSK can streamline Apache Kafka topic management for engineering teams.",
+      "sources": [
+        "The Tax Adviser",
+        "Amazon Web Services (AWS)"
+      ],
+      "stance": "corroborating"
+    },
+    {
+      "text": "Meanwhile, two outlets report on genuinely current social and policy issues that merely share topical language with the rest of the set.",
+      "sources": [
+        "ABC News & Headlines – Australian Broadcasting Corporation",
+        "National Conference of State Legislatures"
+      ],
+      "stance": "corroborating"
+    },
+    {
+      "text": "ABC News reports that female AFL content creators say vile online comments are just one example of the harassment they regularly face, while the National Conference of State Legislatures notes that vaccine policy remains an active topic of interest for state lawmakers.",
+      "sources": [
+        "ABC News & Headlines – Australian Broadcasting Corporation",
+        "National Conference of State Legislatures"
+      ],
+      "stance": "corroborating"
+    },
+    {
+      "text": "Because these sources originate from unrelated beats—reference encyclopedias, lifestyle guides, peer-reviewed science, tax and cloud-computing trade press, and general news—there is no substantive editorial disagreement to reconcile, only a coincidental overlap in keyword usage.",
+      "sources": [
+        "Encyclopedia Britannica",
+        "We Are Teachers",
+        "Verywell Mind",
+        "No Film School",
+        "Hostinger",
+        "Nature",
+        "Frontiers",
+        "The Tax Adviser",
+        "Amazon Web Services (AWS)",
+        "ABC News & Headlines – Australian Broadcasting Corporation",
+        "National Conference of State Legislatures"
+      ],
+      "stance": "corroborating"
+    }
+  ],
+  "disagreementGroups": [],
+  "sourceList": [
+    {
+      "name": "Encyclopedia Britannica",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxRnNldnFQbVE3amVrY3RtZHJ1OWo2cHRkemVuY1c0SGNBYjVUQTdhX3JJcnl0RWFPUHdBZFh4Rm5YSHlNRExrTkZuQzhkYjQxNlc5cnRIT1E?oc=5"
+    },
+    {
+      "name": "The Tax Adviser",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYndBZWEyWjVuOGNaRnlVall3elNxb0JCekNpYV9zS3VRTDE5RG5DZ2J5enBRSzZxUzY4UVRTQV96RU5WM1A5Tk9YMU9NckxGbk1WSjVjMUJaZlg3S0RqM2xzTGQ5YnBnYmVmbGh4c3NQZjk4Z2k4SDVXbW5PdmZ3bkN2X3RoWXp1dUMzd3dsbWtpVDZiLUdubTZGQmpPeThrS3VLcnFlektNZDB6djg5T1FiUDBxTW1ROVE?oc=5"
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOME9mUjZuYkFfazlybWhRVnpBMXlBSV9qNWxidXZoSWpKb2xRSUhvcl80VGJsSW5CWm1xQUtjYkxNTkwyT0VYdmpQb2VmV2dXd1o2TzBjUDZvODg3eGdPa3J2bDV0NURKZTJXNEhhRFVNZmVhXzJCRUFvbi1WdE9sdVlVSjhmdWJwaHlMbDU2NUNiTVBWTjlIVHZVNA?oc=5"
+    },
+    {
+      "name": "We Are Teachers",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85MHRXM2RKc1VRc1BoTlNIY01NLUZRclZici0tVEY1Tk5rdGlfYnVLVVJCRk9hckUwRFdoczlRRnpNdmI2Q3F5ME5kMVFOMGlRNVBnWjB3WV9DNk9QUHc4UQ?oc=5"
+    },
+    {
+      "name": "Verywell Mind",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GcTlWMTJPUFRuWU5EN1FLclB6ZHFzMXZtWTM2V1l0MkhaNFg4c0xMcUczOFFpSEhielQ4MHZveXFrVG5VT1RYandHNWdPOWZJLTVKR2o3T3ByRG83OXZ0d0pWY2I?oc=5"
+    },
+    {
+      "name": "No Film School",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xNUNMcTNKMGUwTXlVaEh3VG1QX1dvYWowRUZseUxmM2xMWU1wMXdJTXNVWVZ3cGRxbE5paUtJQVdJcGswYUVyWXlqNHJzQ0F3dEpJUC1Ndk5ZbnJINHAxR0luS0FGWk9lVW1FejlRV1o?oc=5"
+    },
+    {
+      "name": "Hostinger",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzZ2RjZVJHOFhrTjlhWmlvYkl3QUNqSWNzeG9xNktnRmk5N3o0ZDJBdGpVVHNqbHpaTEZUWVlBWE9XcVlJM0R6cWswSkpTWFdmUGRWd1dUZHdGbTB3eDRv?oc=5"
+    },
+    {
+      "name": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeHFVVkdUVWhKVXFZNE1nYTR5b2o1R0wtVjZ2VDdYRGNNMVF6SWw3bFFEaFdqSmtaQWVvQlFpeWo5eXZ6elM0TmhPRUdPX1BhaGpxN0Z5dE5mRjdhX3pLVm1KbkxBV1ludW5JMnNTQjczVXZzYXRhMUhrRHdlb2R2dm1qNV85ZENNTEJiT2lCaW9sTzZqb2RERXVhNlpkbXJjdzc1M3Jn?oc=5"
+    },
+    {
+      "name": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xNUFWTkdpaGctdXFFa0lQcFlmZDBTbldNRFluWnB3QnBkWWs5M3ZsY3E0MXhac2JuQnlKbi1ETENoWFJhV0VIaGljLTZGbVRaQ0EzTUhLNnpfX0xZTmFZ?oc=5"
+    },
+    {
+      "name": "National Conference of State Legislatures",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRHJoSGRXZGk2RFpjZ0JIQ3g5VkREdTU5aU5pck1MRXNyYzhISk94dk1pbVdwcjdGYnhVZGVoWkNtMEFDZHc3Vnc2cTRNQUZ1djRoM3BKMkg4MzRuY3gxWWFOXzdEekRxYVcwNXYxNFJQRGJjZkdnZ2FUQkdxRl9qOXBDQVJvbVd6NmQwN2cxTW15a2ZzY1Vfb285U05RaUg0Qjg0ZkhMSQ?oc=5"
+    },
+    {
+      "name": "Frontiers",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQlFHTXFoLVVpYTlFOHFWNGtRUnBPZDQwa2k3QnFLTUNRTEpoa0h5THhuMFdzZWlqT2J3Q3A2R2tMemMzaHRFR1RVb1AtS0VibnFZVWNJS2haWndyQWNaekt4T3dwZ0hqMjZJelVHb25pcUNhYzlWbkc4SE8xcHY1VjlBdFdmTWlkV2xvMFFTZ0Y?oc=5"
+    }
+  ]
+}
