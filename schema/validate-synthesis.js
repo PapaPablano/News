@@ -27,6 +27,10 @@ export function validateSynthesis(obj) {
     errors.push("narrative must be a non-empty array");
   } else {
     obj.narrative.forEach((entry, i) => {
+      if (typeof entry !== "object" || entry === null) {
+        errors.push(`narrative[${i}] must be an object`);
+        return;
+      }
       if (typeof entry.text !== "string" || entry.text.length === 0) {
         errors.push(`narrative[${i}].text must be a non-empty string`);
       }
@@ -47,6 +51,10 @@ export function validateSynthesis(obj) {
     errors.push("disagreementGroups must be an array");
   } else {
     obj.disagreementGroups.forEach((group, i) => {
+      if (typeof group !== "object" || group === null) {
+        errors.push(`disagreementGroups[${i}] must be an object`);
+        return;
+      }
       if (typeof group.stance !== "string" || group.stance.length === 0) {
         errors.push(`disagreementGroups[${i}].stance must be a non-empty string`);
       }

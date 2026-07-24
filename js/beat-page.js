@@ -1,4 +1,4 @@
-import { renderArticle } from "./render-article.js";
+import { renderArticle, escapeHtml } from "./render-article.js";
 
 function renderHistoryStrip(index, slug, activeEntry) {
   if (!Array.isArray(index?.entries)) {
@@ -34,7 +34,7 @@ async function loadBeatPage() {
 
   if (!beat) {
     document.getElementById("beat-title").textContent = "Unknown beat";
-    document.getElementById("content").innerHTML = `<p class="error">No beat found for "${slug}".</p>`;
+    document.getElementById("content").innerHTML = `<p class="error">No beat found for "${escapeHtml(slug)}".</p>`;
     return;
   }
 

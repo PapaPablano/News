@@ -62,3 +62,17 @@ test("accepts an empty disagreementGroups array", () => {
   const { valid } = validateSynthesis({ ...validSample, disagreementGroups: [] });
   assert.equal(valid, true);
 });
+
+test("rejects a null entry in narrative without throwing", () => {
+  const bad = { ...validSample, narrative: [null] };
+  const { valid, errors } = validateSynthesis(bad);
+  assert.equal(valid, false);
+  assert.ok(errors.some(e => e.includes("narrative[0] must be an object")));
+});
+
+test("rejects a non-object entry in disagreementGroups without throwing", () => {
+  const bad = { ...validSample, disagreementGroups: ["not an object"] };
+  const { valid, errors } = validateSynthesis(bad);
+  assert.equal(valid, false);
+  assert.ok(errors.some(e => e.includes("disagreementGroups[0] must be an object")));
+});
