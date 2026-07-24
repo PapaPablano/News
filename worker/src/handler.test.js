@@ -35,6 +35,17 @@ test("returns 200 with the validated result on success", async () => {
   assert.deepEqual(body, validResult);
 });
 
+test("returns 200 with the validated result when Claude wraps the JSON in a ```json fence", async () => {
+  const fenced = "```json\n" + JSON.stringify(validResult) + "\n```";
+  const { status, body } = await handleSearchRequest({
+    query: "Zoning change",
+    client: fakeClient(fenced),
+    model: "m"
+  });
+  assert.equal(status, 200);
+  assert.deepEqual(body, validResult);
+});
+
 test("returns 502 when Claude's response is not valid JSON", async () => {
   const { status, body } = await handleSearchRequest({
     query: "Zoning change",

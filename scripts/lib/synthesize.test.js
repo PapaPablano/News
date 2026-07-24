@@ -33,6 +33,13 @@ test("throws when Claude does not return valid JSON", async () => {
   );
 });
 
+test("returns the parsed, validated result when Claude wraps the JSON in a ```json fence", async () => {
+  const fenced = "```json\n" + JSON.stringify(validResult) + "\n```";
+  const client = fakeClient(fenced);
+  const result = await synthesizeBeat({ topic: "Zoning change", articles: [] }, client);
+  assert.deepEqual(result, validResult);
+});
+
 test("throws when Claude's JSON fails schema validation", async () => {
   const invalid = { ...validResult, narrative: [] };
   const client = fakeClient(JSON.stringify(invalid));
