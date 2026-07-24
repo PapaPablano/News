@@ -1,4 +1,4 @@
-export const EXPECTED_SCHEMA_VERSION = 2;
+import { SCHEMA_VERSION } from "../schema/validate-synthesis.js";
 
 export function escapeHtml(str) {
   return String(str)
@@ -91,7 +91,7 @@ export function renderArticle(data) {
   if (data.schemaVersion === undefined) {
     return renderOlderFormatFallback();
   }
-  if (data.schemaVersion !== EXPECTED_SCHEMA_VERSION) {
+  if (data.schemaVersion !== SCHEMA_VERSION) {
     return renderRefreshFallback();
   }
 

@@ -1,9 +1,10 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { renderArticle, escapeHtml, EXPECTED_SCHEMA_VERSION } from "./render-article.js";
+import { renderArticle, escapeHtml } from "./render-article.js";
+import { SCHEMA_VERSION } from "../schema/validate-synthesis.js";
 
 const sample = {
-  schemaVersion: EXPECTED_SCHEMA_VERSION,
+  schemaVersion: SCHEMA_VERSION,
   generatedAt: "2026-07-24T12:00:00.000Z",
   query: "Sample",
   headline: "Something significant happened",
@@ -163,6 +164,25 @@ test("the absent-schemaVersion and mismatched-schemaVersion fallback messages ar
   assert.notEqual(absentHtml, mismatchedHtml);
   assert.doesNotMatch(absentHtml, /refresh/i);
   assert.match(mismatchedHtml, /refresh/i);
+});
+
+test("renderSectionSources deduplicates a source name shared by two sentences in the same section", () => {
+  const duped = {
+    ...sample,
+    sections: [
+      {
+        subheading: "Repeated source",
+        framingLabel: null,
+        sentences: [
+          { text: "First fact.", sources: ["AP"], disputed: false },
+          { text: "Second fact.", sources: ["AP"], disputed: false }
+        ]
+      }
+    ]
+  };
+  const html = renderArticle(duped);
+  assert.match(html, /Sources: AP</);
+  assert.doesNotMatch(html, /Sources: AP, AP/);
 });
 
 test("renderArticle escapes malicious HTML in headline, subheading, framingLabel, and sentence text", () => {
