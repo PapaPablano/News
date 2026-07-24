@@ -11,22 +11,31 @@ function renderBeatCard(beat, latest) {
 }
 
 async function loadBeats() {
-  const beats = await (await fetch("beats.json")).json();
-  const container = document.getElementById("beats");
-  container.innerHTML = "";
+  try {
+    const beats = await (await fetch("beats.json")).json();
+    const container = document.getElementById("beats");
+    container.innerHTML = "";
 
-  for (const beat of beats) {
-    try {
-      const index = await (await fetch(`data/${beat.slug}/index.json`)).json();
-      const latest = await (await fetch(`data/${beat.slug}/${index.latest}`)).json();
-      container.insertAdjacentHTML("beforeend", renderBeatCard(beat, latest));
-    } catch (err) {
-      console.warn(`No data yet for beat "${beat.slug}"`, err);
-      container.insertAdjacentHTML(
-        "beforeend",
-        `<div class="beat-card muted">${escapeHtml(beat.label)} — no data yet</div>`
-      );
+    for (const beat of beats) {
+      try {
+        const index = await (await fetch(`data/${beat.slug}/index.json`)).json();
+        const latest = await (await fetch(`data/${beat.slug}/${index.latest}`)).json();
+        container.insertAdjacentHTML("beforeend", renderBeatCard(beat, latest));
+      } catch (err) {
+        console.warn(`No data yet for beat "${beat.slug}"`, err);
+        container.insertAdjacentHTML(
+          "beforeend",
+          `<div class="beat-card muted">${escapeHtml(beat.label)} — no data yet</div>`
+        );
+      }
     }
+  } catch (err) {
+    console.warn("Could not load beats.json", err);
+    const container = document.getElementById("beats");
+    if (container) {
+      container.innerHTML = `<p class="error">Could not load beats.json.</p>`;
+    }
+    return;
   }
 }
 
