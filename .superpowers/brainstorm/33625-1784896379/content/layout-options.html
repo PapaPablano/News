@@ -1,0 +1,64 @@
+<h2>How should the synthesis page show competing sources?</h2>
+<p class="subtitle">You said: transparent sourcing, surfaced disagreements, source control. Which layout gets there best?</p>
+
+<div class="cards">
+  <div class="card" data-choice="a" onclick="toggleSelect(this)">
+    <div class="card-image">
+      <div class="mockup" style="margin:0;">
+        <div class="mockup-header">Inline Annotated Narrative</div>
+        <div class="mockup-body" style="font-size:13px; line-height:1.6;">
+          <p>The city council voted 5-2 to approve the zoning change
+          <span style="background:#2a4;color:#fff;border-radius:8px;padding:1px 6px;font-size:11px;">AP · Reuters</span>,
+          though critics say the process skipped public comment
+          <span style="background:#a42;color:#fff;border-radius:8px;padding:1px 6px;font-size:11px;">Local Tribune</span>.
+          Supporters frame it as overdue housing relief
+          <span style="background:#2a4;color:#fff;border-radius:8px;padding:1px 6px;font-size:11px;">NYT</span>,
+          while opponents call it a giveaway to developers
+          <span style="background:#a42;color:#fff;border-radius:8px;padding:1px 6px;font-size:11px;">WSJ op-ed</span>.</p>
+        </div>
+      </div>
+    </div>
+    <div class="card-body">
+      <h3>A. Inline Annotated Narrative</h3>
+      <p>One flowing summary with small colored citation chips inline. Click a chip to expand that source's exact wording. Agreement vs. disagreement shown by chip color.</p>
+    </div>
+  </div>
+
+  <div class="card" data-choice="b" onclick="toggleSelect(this)">
+    <div class="card-image">
+      <div class="mockup" style="margin:0;">
+        <div class="mockup-header">Side-by-Side Columns</div>
+        <div class="mockup-body" style="display:flex; gap:8px; font-size:12px;">
+          <div class="mock-content" style="flex:1;"><b>AP</b><br>Council approves zoning change 5-2, calls it a housing win.</div>
+          <div class="mock-content" style="flex:1;"><b>Local Tribune</b><br>Vote rushed through, skipped public comment period.</div>
+          <div class="mock-content" style="flex:1;"><b>WSJ</b><br>Critics call it a developer giveaway.</div>
+        </div>
+      </div>
+    </div>
+    <div class="card-body">
+      <h3>B. Side-by-Side Columns</h3>
+      <p>Each source gets its own column with its own short take. No blending — you read each framing separately and compare by eye. Most transparent, least "unified."</p>
+    </div>
+  </div>
+
+  <div class="card" data-choice="c" onclick="toggleSelect(this)">
+    <div class="card-image">
+      <div class="mockup" style="margin:0;">
+        <div class="mockup-header">Summary + Disagreement Panel</div>
+        <div class="mockup-body" style="font-size:12px;">
+          <p style="margin:0 0 6px 0;"><b>Consensus:</b> Council approved the zoning change 5-2.</p>
+          <div class="pros-cons" style="margin:0;">
+            <div class="pros"><h4>Framed as relief</h4><ul><li>NYT, AP</li></ul></div>
+            <div class="cons"><h4>Framed as giveaway</h4><ul><li>WSJ op-ed, Local Tribune</li></ul></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card-body">
+      <h3>C. Summary + Disagreement Panel</h3>
+      <p>Short neutral consensus line up top, then an explicit "where sources disagree" panel below grouping outlets by stance. Structured, scannable, good for skimming multiple stories fast.</p>
+    </div>
+  </div>
+</div>
+
+<p class="label">Click a card to select. You can also mix elements from more than one — just tell me in the terminal.</p>
