@@ -37,15 +37,25 @@ async function loadBeats() {
   const container = document.getElementById("beats");
   container.innerHTML = "";
 
-  const summaries = await loadBeatSummaries(beats);
+  try {
+    const summaries = await loadBeatSummaries(beats);
 
-  beats.forEach((beat, i) => {
-    const summary = summaries[i];
-    container.insertAdjacentHTML(
-      "beforeend",
-      summary ? renderBeatCard(summary) : renderMutedCard(beat.label)
-    );
-  });
+    beats.forEach((beat, i) => {
+      const summary = summaries[i];
+      try {
+        container.insertAdjacentHTML(
+          "beforeend",
+          summary ? renderBeatCard(summary) : renderMutedCard(beat.label)
+        );
+      } catch (err) {
+        console.warn(`Failed to render beat card for "${beat.slug}"`, err);
+        container.insertAdjacentHTML("beforeend", renderMutedCard(beat.label));
+      }
+    });
+  } catch (err) {
+    console.warn("Could not load beat summaries", err);
+    container.innerHTML = `<p class="error">Could not load beat summaries.</p>`;
+  }
 }
 
 loadBeats();
