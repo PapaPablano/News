@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "test": "node --test schema/*.test.js data/*.test.js js/*.test.js scripts/lib/*.test.js"
+    "test": "node --test schema/*.test.js data/*.test.js js/*.test.js scripts/*.test.js scripts/lib/*.test.js"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.32.0",

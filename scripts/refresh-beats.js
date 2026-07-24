@@ -23,13 +23,13 @@ function googleNewsUrl(searchTerms) {
   return `https://news.google.com/rss/search?q=${encodeURIComponent(searchTerms)}&hl=en-US&gl=US&ceid=US:en`;
 }
 
-export async function collectArticles(beat, sources) {
+export async function collectArticles(beat, sources, fetchImpl = fetch) {
   const feedUrls = [googleNewsUrl(beat.searchTerms), ...sources.map(s => s.feedUrl)];
   const articles = [];
 
   for (const url of feedUrls) {
     try {
-      const items = await fetchFeed(url);
+      const items = await fetchFeed(url, fetchImpl);
       for (const item of items) {
         if (matchesBeat(item, beat)) {
           articles.push({
