@@ -1,0 +1,6 @@
+name = "news-synthesis-worker"
+main = "src/index.js"
+compatibility_date = "2026-07-24"
+
+[vars]
+ANTHROPIC_MODEL = "claude-sonnet-5"
