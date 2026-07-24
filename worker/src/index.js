@@ -4,7 +4,7 @@ import { handleSearchRequest } from "./handler.js";
 const CORS_HEADERS = {
   "Access-Control-Allow-Origin": "*",
   "Access-Control-Allow-Methods": "POST, OPTIONS",
-  "Access-Control-Allow-Headers": "Content-Type"
+  "Access-Control-Allow-Headers": "Content-Type, X-Search-Proxy-Secret"
 };
 
 function jsonResponse(status, body) {
@@ -21,6 +21,11 @@ export default {
     }
     if (request.method !== "POST") {
       return jsonResponse(405, { error: "Method not allowed" });
+    }
+
+    const providedSecret = request.headers.get("X-Search-Proxy-Secret");
+    if (!providedSecret || providedSecret !== env.SEARCH_PROXY_SECRET) {
+      return jsonResponse(401, { error: "Unauthorized" });
     }
 
     let body;

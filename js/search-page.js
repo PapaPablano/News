@@ -2,6 +2,8 @@ import { renderArticle } from "./render-article.js";
 
 // Updated in Task 16 once the Worker is deployed and its real URL is known.
 const WORKER_URL = "https://news-synthesis-worker.YOUR-SUBDOMAIN.workers.dev";
+// Updated in Task 16 once the Worker's SEARCH_PROXY_SECRET is set.
+const SEARCH_PROXY_SECRET = "REPLACE-AFTER-DEPLOY";
 
 async function handleSearch(event) {
   event.preventDefault();
@@ -14,7 +16,10 @@ async function handleSearch(event) {
   try {
     const res = await fetch(WORKER_URL, {
       method: "POST",
-      headers: { "Content-Type": "application/json" },
+      headers: {
+        "Content-Type": "application/json",
+        "X-Search-Proxy-Secret": SEARCH_PROXY_SECRET
+      },
       body: JSON.stringify({ query })
     });
     const data = await res.json();

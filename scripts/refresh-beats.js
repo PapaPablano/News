@@ -53,6 +53,11 @@ export async function refreshBeat({ beat, sources, client }) {
     return { result: null, articleCount: 0 };
   }
   const result = await synthesizeBeat({ topic: beat.label, articles }, client);
+  // Overwrite the model's self-reported generatedAt with the orchestrator's own
+  // timestamp. writeArchiveEntry derives the archive filename from generatedAt,
+  // so it must be controller-generated (and thus guaranteed unique across
+  // sequential runs) rather than trusted from the model's JSON response.
+  result.generatedAt = new Date().toISOString();
   return { result, articleCount: articles.length };
 }
 
