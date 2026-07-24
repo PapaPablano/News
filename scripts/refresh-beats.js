@@ -7,6 +7,7 @@ import { updateIndex } from "./lib/archive-index.js";
 import { synthesizeBeat } from "./lib/synthesize.js";
 
 const ROOT = path.resolve(import.meta.dirname, "..");
+const MAX_ARTICLES_PER_BEAT = 15;
 
 async function loadJson(relPath) {
   const raw = await fs.readFile(path.join(ROOT, relPath), "utf8");
@@ -44,7 +45,11 @@ export async function collectArticles(beat, sources) {
     }
   }
 
-  return articles;
+  // Cap the article count sent to Claude. A loosely-matched or popular topic
+  // can pull in dozens of items across feeds; an uncapped list produces an
+  // oversized prompt and a synthesis response long enough to exceed any
+  // reasonable max_tokens budget.
+  return articles.slice(0, MAX_ARTICLES_PER_BEAT);
 }
 
 export async function refreshBeat({ beat, sources, client }) {
