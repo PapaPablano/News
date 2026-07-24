@@ -87,14 +87,28 @@ async function main() {
   const sources = await loadJson("sources.json");
   const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 
+  let hadFailure = false;
+
   for (const beat of beats) {
-    const { result, articleCount } = await refreshBeat({ beat, sources, client });
-    if (!result) {
-      console.warn(`Skipping beat "${beat.slug}": no articles found from any source`);
-      continue;
+    try {
+      const { result, articleCount } = await refreshBeat({ beat, sources, client });
+      if (!result) {
+        console.warn(`Skipping beat "${beat.slug}": no articles found from any source`);
+        continue;
+      }
+      await writeArchiveEntry(beat.slug, result);
+      console.log(`Refreshed "${beat.slug}" from ${articleCount} articles`);
+    } catch (err) {
+      hadFailure = true;
+      console.error(`Failed to refresh beat "${beat.slug}": ${err.message}`);
     }
-    await writeArchiveEntry(beat.slug, result);
-    console.log(`Refreshed "${beat.slug}" from ${articleCount} articles`);
+  }
+
+  // Exit non-zero so a failed beat is visible in the Actions run, but the
+  // workflow's commit step still runs (if: always()) so whatever beats DID
+  // succeed still get committed rather than being discarded.
+  if (hadFailure) {
+    process.exitCode = 1;
   }
 }
 
