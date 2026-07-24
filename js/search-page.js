@@ -1,9 +1,7 @@
 import { renderArticle } from "./render-article.js";
 
-// Updated in Task 16 once the Worker is deployed and its real URL is known.
-const WORKER_URL = "https://news-synthesis-worker.YOUR-SUBDOMAIN.workers.dev";
-// Updated in Task 16 once the Worker's SEARCH_PROXY_SECRET is set.
-const SEARCH_PROXY_SECRET = "REPLACE-AFTER-DEPLOY";
+const WORKER_URL = "https://news-synthesis-worker.epeterson0076.workers.dev";
+const SEARCH_PROXY_SECRET = "194d61fa03cfa2b2cf9183d573988a0ab876eddebff7a733271c4bcc63eb0b2e";
 
 async function handleSearch(event) {
   event.preventDefault();
