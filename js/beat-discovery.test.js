@@ -93,6 +93,34 @@ test("loadBeatSummaries edge case: one beat's fetch fails -> that entry is null,
   assert.equal(summaries[2].slug, "politics");
 });
 
+test("loadBeatSummaries edge case: index.json succeeds but the latest-entry fetch fails -> that entry is null, others unaffected", async () => {
+  const fetchImpl = makeFakeFetch({
+    "data/tech/index.json": { latest: "2026-07-24.json" },
+    "data/tech/2026-07-24.json": {
+      headline: "Tech headline",
+      consensus: "Tech consensus",
+      generatedAt: "2026-07-24T00:00:00.000Z",
+      disagreementGroups: []
+    },
+    "data/climate/index.json": { latest: "2026-07-23.json" },
+    "data/climate/2026-07-23.json": new Error("404 not found"),
+    "data/politics/index.json": { latest: "2026-07-22.json" },
+    "data/politics/2026-07-22.json": {
+      headline: "Politics headline",
+      consensus: "Politics consensus",
+      generatedAt: "2026-07-22T00:00:00.000Z",
+      disagreementGroups: []
+    }
+  });
+
+  const summaries = await loadBeatSummaries(beats, fetchImpl);
+
+  assert.equal(summaries.length, 3);
+  assert.equal(summaries[0].slug, "tech");
+  assert.equal(summaries[1], null);
+  assert.equal(summaries[2].slug, "politics");
+});
+
 test("loadBeatSummaries edge case: empty beats array returns empty array", async () => {
   const fetchImpl = makeFakeFetch({});
   const summaries = await loadBeatSummaries([], fetchImpl);
