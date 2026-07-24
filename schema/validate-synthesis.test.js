@@ -87,6 +87,13 @@ test("accepts framingLabel as a non-empty string", () => {
   assert.equal(valid, true, errors.join("; "));
 });
 
+test("rejects a section with a non-string, non-null framingLabel", () => {
+  const bad = { ...validSample, sections: [{ ...validSample.sections[0], framingLabel: 42 }] };
+  const { valid, errors } = validateSynthesis(bad);
+  assert.equal(valid, false);
+  assert.ok(errors.some(e => e.includes("framingLabel")));
+});
+
 test("rejects a non-object", () => {
   const { valid, errors } = validateSynthesis(null);
   assert.equal(valid, false);
