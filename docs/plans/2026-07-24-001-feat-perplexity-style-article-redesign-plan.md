@@ -1,7 +1,7 @@
 ---
 title: Perplexity-Style Article Redesign
 type: feat
-status: active
+status: completed
 date: 2026-07-24
 origin: docs/brainstorms/2026-07-24-perplexity-style-article-redesign-requirements.md
 ---
@@ -139,7 +139,7 @@ Both R5's branch and R8's presence read the same underlying condition (`disagree
 
 ## Implementation Units
 
-- [ ] **Unit 1: Shared synthesis schema, prompt, and validator**
+- [x] **Unit 1: Shared synthesis schema, prompt, and validator**
 
 **Goal:** Replace `narrative[]` with `headline` + `sections[]` in the validated contract, add `schemaVersion`, and update the prompt that instructs Claude to produce this shape.
 
@@ -193,7 +193,7 @@ Both R5's branch and R8's presence read the same underlying condition (`disagree
 
 ---
 
-- [ ] **Unit 2: Shared beat-discovery module**
+- [x] **Unit 2: Shared beat-discovery module**
 
 **Goal:** Extract the beat-summary-loading logic already in `front-page.js` into a shared, reusable module, so `beat-page.js` and `search-page.js` (Unit 6) don't reimplement it.
 
@@ -230,7 +230,7 @@ Both R5's branch and R8's presence read the same underlying condition (`disagree
 
 ---
 
-- [ ] **Unit 3: Article renderer rewrite**
+- [x] **Unit 3: Article renderer rewrite**
 
 **Goal:** Render the new `headline` + `sections[]` shape, the shared R8 indicator, the softened Snapshot panel copy, and a graceful two-way `schemaVersion` fallback (permanently-old vs. transiently-mismatched).
 
@@ -269,7 +269,7 @@ Both R5's branch and R8's presence read the same underlying condition (`disagree
 
 ---
 
-- [ ] **Unit 4: CSS for the new visual language**
+- [x] **Unit 4: CSS for the new visual language**
 
 **Goal:** Style the headline, sections, per-section source lists, disputed-content cues, the shared R8 indicator (both its static and interactive forms), framing labels, and the related-beats strip.
 
@@ -293,7 +293,7 @@ Both R5's branch and R8's presence read the same underlying condition (`disagree
 
 ---
 
-- [ ] **Unit 5: Front-page integration**
+- [x] **Unit 5: Front-page integration**
 
 **Goal:** Show the headline (with fallback), the shared R8 indicator, on front-page beat cards.
 
@@ -323,7 +323,7 @@ Both R5's branch and R8's presence read the same underlying condition (`disagree
 
 ---
 
-- [ ] **Unit 6: Beat page and search page integration**
+- [x] **Unit 6: Beat page and search page integration**
 
 **Goal:** Wire the related-beats strip (R7) into both pages via a dedicated module, and confirm the R8 anchor-link behavior works end-to-end.
 
