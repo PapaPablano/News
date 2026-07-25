@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-07-25T00:51:58.273Z",
+  "query": "Sample Beat (replace me)",
+  "headline": "A miscellaneous batch of articles connected only by the shared keyword 'topic', spanning scientific research, corporate guidance, and lifestyle listicles.",
+  "consensus": "These sources do not report on a single news event; they were grouped together because their headlines each contain the word 'topic,' covering unrelated subjects from academic data science to tax law to small talk advice.",
+  "sections": [
+    {
+      "subheading": "Topic modeling across scientific disciplines",
+      "framingLabel": null,
+      "sentences": [
+        {
+          "text": "Researchers used topic modeling to analyze incel discourse in Spanish-speaking communities on X, formerly Twitter.",
+          "sources": [
+            "Nature"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "A separate study applied neural topic modeling to examine how German television covers climate change.",
+          "sources": [
+            "Nature"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Scientists also used topic modeling to integrate multi-omic data from the human gut microbiome, with implications for autism research.",
+          "sources": [
+            "Nature"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Frontiers published a topic model analysis of students' gendered expectations based on their written critiques of lecturers.",
+          "sources": [
+            "Frontiers"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "In the UK Biobank, age-dependent topic modeling was used to identify disease subtypes with differing genetic risk based on patterns of comorbidity.",
+          "sources": [
+            "Nature"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Another Nature study introduced a scalable topic modeling approach to decode spatial tissue architecture in large-scale multiplexed imaging analysis.",
+          "sources": [
+            "Nature"
+          ],
+          "disputed": false
+        }
+      ]
+    },
+    {
+      "subheading": "Corporate and technical uses of 'topic'",
+      "framingLabel": null,
+      "sentences": [
+        {
+          "text": "The Tax Adviser explained how companies should calculate and present state income tax effects under ASC Topic 740.",
+          "sources": [
+            "The Tax Adviser"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Separately, Amazon Web Services outlined new tools for streamlining Apache Kafka topic management within Amazon MSK.",
+          "sources": [
+            "Amazon Web Services (AWS)"
+          ],
+          "disputed": false
+        }
+      ]
+    },
+    {
+      "subheading": "Unrelated listicles and general news",
+      "framingLabel": null,
+      "sentences": [
+        {
+          "text": "Encyclopedia Britannica offered a historical overview of fake news, tracing examples from the Great Moon Hoax to the 2016 U.S. election.",
+          "sources": [
+            "Encyclopedia Britannica"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "We Are Teachers compiled ten lesson plan examples along with tips from educators.",
+          "sources": [
+            "We Are Teachers"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Verywell Mind ranked the best and worst small talk topics for social situations.",
+          "sources": [
+            "Verywell Mind"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "No Film School explained five essential movie themes using well-known film examples.",
+          "sources": [
+            "No Film School"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Hostinger curated 55 blog examples intended to inspire bloggers in 2026.",
+          "sources": [
+            "Hostinger"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "ABC News reported that female AFL content creators say vile comments are just one example of the harassment they regularly face.",
+          "sources": [
+            "ABC News & Headlines – Australian Broadcasting Corporation"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "The National Conference of State Legislatures noted that vaccine policy remains a recurring topic of interest for state legislatures.",
+          "sources": [
+            "National Conference of State Legislatures"
+          ],
+          "disputed": false
+        }
+      ]
+    }
+  ],
+  "disagreementGroups": [],
+  "sourceList": [
+    {
+      "name": "The Tax Adviser",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYndBZWEyWjVuOGNaRnlVall3elNxb0JCekNpYV9zS3VRTDE5RG5DZ2J5enBRSzZxUzY4UVRTQV96RU5WM1A5Tk9YMU9NckxGbk1WSjVjMUJaZlg3S0RqM2xzTGQ5YnBnYmVmbGh4c3NQZjk4Z2k4SDVXbW5PdmZ3bkN2X3RoWXp1dUMzd3dsbWtpVDZiLUdubTZGQmpPeThrS3VLcnFlektNZDB6djg5T1FiUDBxTW1ROVE?oc=5"
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOME9mUjZuYkFfazlybWhRVnpBMXlBSV9qNWxidXZoSWpKb2xRSUhvcl80VGJsSW5CWm1xQUtjYkxNTkwyT0VYdmpQb2VmV2dXd1o2TzBjUDZvODg3eGdPa3J2bDV0NURKZTJXNEhhRFVNZmVhXzJCRUFvbi1WdE9sdVlVSjhmdWJwaHlMbDU2NUNiTVBWTjlIVHZVNA?oc=5"
+    },
+    {
+      "name": "Encyclopedia Britannica",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FZTVvdGU4WmlDRHZqRXR3RGFVVVZtNEc4cUJpN0hHWVctSHZHb2pjMm1yNWNOUWRJRV9VSVI5MVlGaG12T25tQmh5dHBnUFg4ZXQ5bQ?oc=5"
+    },
+    {
+      "name": "We Are Teachers",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85MHRXM2RKc1VRc1BoTlNIY01NLUZRclZici0tVEY1Tk5rdGlfYnVLVVJCRk9hckUwRFdoczlRRnpNdmI2Q3F5ME5kMVFOMGlRNVBnWjB3WV9DNk9QUHc4UQ?oc=5"
+    },
+    {
+      "name": "Verywell Mind",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GcTlWMTJPUFRuWU5EN1FLclB6ZHFzMXZtWTM2V1l0MkhaNFg4c0xMcUczOFFpSEhielQ4MHZveXFrVG5VT1RYandHNWdPOWZJLTVKR2o3T3ByRG83OXZ0d0pWY2I?oc=5"
+    },
+    {
+      "name": "No Film School",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xNUNMcTNKMGUwTXlVaEh3VG1QX1dvYWowRUZseUxmM2xMWU1wMXdJTXNVWVZ3cGRxbE5paUtJQVdJcGswYUVyWXlqNHJzQ0F3dEpJUC1Ndk5ZbnJINHAxR0luS0FGWk9lVW1FejlRV1o?oc=5"
+    },
+    {
+      "name": "Hostinger",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzZ2RjZVJHOFhrTjlhWmlvYkl3QUNqSWNzeG9xNktnRmk5N3o0ZDJBdGpVVHNqbHpaTEZUWVlBWE9XcVlJM0R6cWswSkpTWFdmUGRWd1dUZHdGbTB3eDRv?oc=5"
+    },
+    {
+      "name": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeHFVVkdUVWhKVXFZNE1nYTR5b2o1R0wtVjZ2VDdYRGNNMVF6SWw3bFFEaFdqSmtaQWVvQlFpeWo5eXZ6elM0TmhPRUdPX1BhaGpxN0Z5dE5mRjdhX3pLVm1KbkxBV1ludW5JMnNTQjczVXZzYXRhMUhrRHdlb2R2dm1qNV85ZENNTEJiT2lCaW9sTzZqb2RERXVhNlpkbXJjdzc1M3Jn?oc=5"
+    },
+    {
+      "name": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xNUFWTkdpaGctdXFFa0lQcFlmZDBTbldNRFluWnB3QnBkWWs5M3ZsY3E0MXhac2JuQnlKbi1ETENoWFJhV0VIaGljLTZGbVRaQ0EzTUhLNnpfX0xZTmFZ?oc=5"
+    },
+    {
+      "name": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nclY0Sk5CeWc1NEhqQVczekhOLXpzVGVraU9qak83eEh0TEpUei1wN0lkYzRNZUxra2tmd25BV2pmTWxCRHlOZHh0MzR1T210T0dhU0FDRTI0dzczaFRr?oc=5"
+    },
+    {
+      "name": "National Conference of State Legislatures",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRHJoSGRXZGk2RFpjZ0JIQ3g5VkREdTU5aU5pck1MRXNyYzhISk94dk1pbVdwcjdGYnhVZGVoWkNtMEFDZHc3Vnc2cTRNQUZ1djRoM3BKMkg4MzRuY3gxWWFOXzdEekRxYVcwNXYxNFJQRGJjZkdnZ2FUQkdxRl9qOXBDQVJvbVd6NmQwN2cxTW15a2ZzY1Vfb285U05RaUg0Qjg0ZkhMSQ?oc=5"
+    },
+    {
+      "name": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yaUE3VjEtVnFNSWs0cHpPSzZFUGgzMWpUaGcwa1hNNjVxT096ZkVKaXpybnp0blE1bnR3UU5ob1JPOGJDd2dVWEgxUGhYdXNoNkx2Smg0TjhUd1h6emQw?oc=5"
+    },
+    {
+      "name": "Frontiers",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQlFHTXFoLVVpYTlFOHFWNGtRUnBPZDQwa2k3QnFLTUNRTEpoa0h5THhuMFdzZWlqT2J3Q3A2R2tMemMzaHRFR1RVb1AtS0VibnFZVWNJS2haWndyQWNaekt4T3dwZ0hqMjZJelVHb25pcUNhYzlWbkc4SE8xcHY1VjlBdFdmTWlkV2xvMFFTZ0Y?oc=5"
+    },
+    {
+      "name": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84VUdCMUdxMVBhbWQ3QkJfektJWHJpSEJ0bmNzTHhRRThheldrVjJBSE8yZF9JV0NDV18tTGt1T0hleHl6cV9xZUpua0RxazktS2JyUzlxNWpwdDF0dE1N?oc=5"
+    },
+    {
+      "name": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jbkJsbXNLU04yYXdneUlVMEt0R3JkNGNzQkFNSThhOUp6QjFBeklBME5tQmEtNW9KQ2Q0RGprYURRd3RHSU16Wk16VWFmN1RBLU15bHFzcG9rSUtTMkg4?oc=5"
+    }
+  ]
+}
