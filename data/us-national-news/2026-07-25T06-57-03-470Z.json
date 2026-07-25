@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-07-25T06:57:03.470Z",
+  "query": "US National News",
+  "headline": "Trump administration navigates economic headwinds, an Iran ceasefire deal, and domestic policy fights as midterms approach",
+  "consensus": "Multiple outlets report that the Trump administration is simultaneously managing economic pressures ahead of the 2026 midterms, a fast-moving Iran conflict resolution, and a series of domestic policy and personnel actions.",
+  "sections": [
+    {
+      "subheading": "Economy and the road to the midterms",
+      "framingLabel": null,
+      "sentences": [
+        {
+          "text": "U.S. News & World Report reports that Trump's economy is facing headwinds as the 2026 midterms approach, raising political stakes for the administration.",
+          "sources": [
+            "U.S. News & World Report"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Separately, U.S. News & World Report notes Trump wants to cut off trade with Spain, detailing what the United States currently gets from that trading relationship.",
+          "sources": [
+            "U.S. News & World Report"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "NBC News is tracking the 2026 national primary elections with live results and mapping as the political calendar heats up.",
+          "sources": [
+            "NBC News"
+          ],
+          "disputed": false
+        }
+      ]
+    },
+    {
+      "subheading": "Immigration enforcement incident in Maine",
+      "framingLabel": null,
+      "sentences": [
+        {
+          "text": "The BBC reports that a Colombian national was killed by an ICE agent during an immigration enforcement operation in Maine.",
+          "sources": [
+            "BBC"
+          ],
+          "disputed": false
+        }
+      ]
+    },
+    {
+      "subheading": "Iran conflict: deal reached, but agreement remains fragile",
+      "framingLabel": "One perspective: a deal has been struck",
+      "sentences": [
+        {
+          "text": "CBS News reports that Trump and Pakistan's prime minister said the U.S. and Iran have reached a deal, though Israeli strikes in Lebanon threaten to unravel the agreement.",
+          "sources": [
+            "CBS News"
+          ],
+          "disputed": true
+        },
+        {
+          "text": "NBC News similarly reports that the U.S. and Iran reached a framework deal intended to end the war and reopen the Strait of Hormuz.",
+          "sources": [
+            "NBC News"
+          ],
+          "disputed": true
+        },
+        {
+          "text": "CBS News further reports that Trump personally edited a possible U.S.-Iran agreement, including provisions on enriched uranium and the Strait of Hormuz.",
+          "sources": [
+            "CBS News"
+          ],
+          "disputed": false
+        }
+      ]
+    },
+    {
+      "subheading": "Iran conflict: tensions and setbacks persist",
+      "framingLabel": "Another angle: the deal is in doubt",
+      "sentences": [
+        {
+          "text": "CBS News reports that Trump called Iran's response to the peace proposal 'totally unacceptable,' casting doubt on the durability of any agreement.",
+          "sources": [
+            "CBS News"
+          ],
+          "disputed": true
+        },
+        {
+          "text": "CBS News also reports that Trump said Israeli Prime Minister Netanyahu will do 'whatever I want' regarding Iran and that Trump is 'in no hurry' to finalize a deal.",
+          "sources": [
+            "CBS News"
+          ],
+          "disputed": true
+        },
+        {
+          "text": "CBS News notes that Iran's foreign minister traveled to Pakistan and Russia after a planned trip by U.S. envoys was canceled, signaling continued diplomatic friction.",
+          "sources": [
+            "CBS News"
+          ],
+          "disputed": false
+        }
+      ]
+    },
+    {
+      "subheading": "Domestic policy, personnel, and the courts",
+      "framingLabel": null,
+      "sentences": [
+        {
+          "text": "U.S. News & World Report reports that Trump halted a housing bill and turned his focus toward voting laws.",
+          "sources": [
+            "U.S. News & World Report"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Federal News Network reports that Trump nominated U.S. Attorney Jay Clayton to serve as director of national intelligence.",
+          "sources": [
+            "Federal News Network"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "PBS reports that Trump fired the independent board overseeing the National Science Foundation.",
+          "sources": [
+            "PBS"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "U.S. News & World Report also summarized the major cases the Supreme Court decided this term.",
+          "sources": [
+            "U.S. News & World Report"
+          ],
+          "disputed": false
+        }
+      ]
+    }
+  ],
+  "disagreementGroups": [
+    {
+      "stance": "A U.S.-Iran deal has been reached and is holding",
+      "sources": [
+        "NBC News"
+      ]
+    },
+    {
+      "stance": "The Iran agreement is fragile, contested, or effectively rejected",
+      "sources": [
+        "CBS News"
+      ]
+    }
+  ],
+  "sourceList": [
+    {
+      "name": "U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa0ZaVjJ0QTBPVG9xem5IRm9yWmMxUFVOcmdQdmxlMkl3U3drOWd3U3RnVTZ5UVdWMXJjcHFSd2pyMTQ5Qnp2UzRIbnppNGpQY21aWnB5MmF5Y2JrYVFTVVJzZTR0UzJzSzZEenZQbXBoV053ajhVRXNJakcybnNySWloUG4zeHVDMmQtalRPcGs3V3p3Si01WUE1YURtejM4RlJGREpSR3FlVmZkbG5kVVkwQWdnQXc?oc=5"
+    },
+    {
+      "name": "NBC News",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkNV9IM2xTNmVHV2tnUHd5NGRPT0cxSnY5blVHWG1UdlF3U2JDay1jZjE0MGp5S1REc0syWEpuOHBKbHpodnExWm1OcF9UTlhQWl9DeGZYWkk1SXhKUFdNcE8tdWhUODk4OERTSGg3WnIwdw?oc=5"
+    },
+    {
+      "name": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3SlYtV2h3dG4ta3B4WGR3bVJrZHk3SzhEQ05nc3hDcHBkOElzYnR1NHpnSVdKQS1WZURyTWw4QkFNY19KbHFvNUJWQXFEOG9WeUE1TTQxSmtQQQ?oc=5"
+    },
+    {
+      "name": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUlhvS2pRZXhlSm5RRDdYRWdDTXVZc3dSVWw3SVBsa05JbEltWFh1dnVLaExCUUN2TzJoN3F3cVlXRDJocVJpeWprTEdPek10WERFVHc2bXlWaUxpcXBqYUNQTDRqMGlmU0RybHJXN0xtbC1DbmlrYTF4NVhlZEVGaUF4clFoSjJIQ2xFMGQ2Z3hSOE3SAZgBQVVfeXFMT2U1NlBKMl9IMHdqRXY5Y1dncU5jQnZmcXlibkhBcTIxSDh4VzEwS1R5eEEyZU1hLXBSR21JRTVZUVFQYzB3SkVRU2VGTDlhVVJwZFdKYVY4VkU4RXhITnBkd216dTFwWTUyczNBZnZsSjgwUVQzVGg1RUN0SS0zYjhCUUZKTmZ5ZWVDbXRZVVJTWU1JUzdFMm0?oc=5"
+    },
+    {
+      "name": "Federal News Network",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRHhFR1ZHRVdMenBfVERidURfOUE2b1IzcFA4ZWpqZkFJSWE2WmxHcmZ5akRqRGh1Q2J5aEdNdzd4SGVfYi1LcDZWT21MaE1JUUYwMC15MnlKR1RnTlRzSEdpaWJQdXRqeWNka1NXZG1oODVRNDczd3N5Szh0U2dkTzU4S1Z3U2x6Vjl5MDBrczhpWTVRdXN1c2Q1eEh3bHdROGRBUWl3ME9odERtN1dudWJvWW95dWJIUXpDWFVfRHpHNkZxSnZwOHp1UW1LZ05m?oc=5"
+    },
+    {
+      "name": "PBS",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRGxwYmFnVDNvNFpoVWNnenNEZi1hTW04RUJhdDlLdFB6Q0R3WEItbkUwUzhFRDZfdmM3U20zOFRHNktRYURXWWw3aUEzSk9kNVVWNVVmb3RvTDBGLTZhcDFLcmdxN3pQcUhQeXJ4dDRsZ19oVXBSc2xMY3F4djdwd0tKeUVBQXU2XzNXeFR3ZVNLZjFNUzVZUk9XT21sMUd1dUlCMFFnRQ?oc=5"
+    }
+  ]
+}

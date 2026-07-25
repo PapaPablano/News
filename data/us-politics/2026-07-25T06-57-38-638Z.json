@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-07-25T06:57:38.638Z",
+  "query": "US Politics",
+  "headline": "Trump escalates efforts to reshape election rules ahead of the midterms as Republicans show rare pushback and Democrats confront a redistricting disadvantage",
+  "consensus": "Multiple outlets report that President Trump has intensified efforts to change midterm election procedures, including firing members of a bipartisan elections commission and being urged to declare an emergency, moves that have drawn unusual resistance from congressional Republicans while the broader midterm landscape shifts due to redistricting and a Supreme Court ruling weakening the Voting Rights Act.",
+  "sections": [
+    {
+      "subheading": "Trump's Push to Change Election Rules",
+      "framingLabel": null,
+      "sentences": [
+        {
+          "text": "President Trump used a prime-time address to outline priorities that included his push on election-related matters, according to takeaways compiled by The Washington Post.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Trump has fired members of a bipartisan elections commission as part of a broader effort to assert control over election administration.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "With time running out before the midterms, Trump has dug in on changing election rules despite the practical constraints of the calendar.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "He has also been urged by allies to declare an emergency in order to claim greater executive power over elections, and his latest emergency declaration has left GOP allies scrambling to respond.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "A voting bill that Trump says will secure victory could backfire on Republicans, according to reporting on its potential effects.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Despite this, Trump has remained defiant in the face of rare resistance from congressional Republicans over his election-related plans.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        }
+      ]
+    },
+    {
+      "subheading": "Voting Rights Act Ruling and Reaction",
+      "framingLabel": null,
+      "sentences": [
+        {
+          "text": "The Supreme Court has limited a key provision of the landmark Voting Rights Act, a decision with significant implications for future elections.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "In response, Black members of Congress have focused on driving 'massive voter turnout' following the gutting of the civil rights law.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        }
+      ]
+    },
+    {
+      "subheading": "The Midterm Landscape",
+      "framingLabel": null,
+      "sentences": [
+        {
+          "text": "With midterm elections nine months away, the Council on Foreign Relations notes the stakes and uncertainties shaping the contest.",
+          "sources": [
+            "Council on Foreign Relations"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Republican wins on election maps through redistricting have given Democrats a steeper climb to victory in House races.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "A GOP loss in Trump's own Mar-a-Lago district has been read as a signal about broader midterm dynamics.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "AP Decision Notes outline what to expect in New Jersey's special congressional election, another test of the current political environment.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "The White House has told House Republicans to avoid talk of mass deportation ahead of the midterms, seeking to manage messaging risks.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Overall, Trump has left Republicans guessing on his midterms plans even as the party's electoral outlook darkens.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        }
+      ]
+    }
+  ],
+  "disagreementGroups": [],
+  "sourceList": [
+    {
+      "name": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWTNNQWxOZFJGMVV0aUVSdE5TM0JrVVM0dGNJUFRjczFtdk5MUmx0eU9iVC1JVDJmdzRYVDhYXy1zT3N1V2NaYmlGdW9HWlpoYXFna282VmRieXNwWUIzUEVJdkdYbEhQRzhBTWdzS2xCdmgyQWdiWWIta1BqcHJDNW9UcHVqWllaS0hOMDRlU1g1a0xrbU9xQ244UjNOS2JEa2dLbjVlWG03Zw?oc=5"
+    },
+    {
+      "name": "Council on Foreign Relations",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EbXZEMnpQd252ODlMNlJxRVhOOGNNel83Qk9iZWQzbHNidUNmaGgtaFdVbTdIRUNNRE1kNEdnS3dvUGhhellRTU5ManVkSmUtdHdUNDBMeEpBOUdESGdkMDNlZ1laX0I5NGFwSkYxd0thTlZfN2c?oc=5"
+    }
+  ]
+}
