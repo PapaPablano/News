@@ -7,7 +7,7 @@ export async function synthesizeBeat({ topic, articles }, client) {
 
   const response = await client.messages.create({
     model: process.env.ANTHROPIC_MODEL || "claude-sonnet-5",
-    max_tokens: 8000,
+    max_tokens: 16000,
     messages: [{ role: "user", content: prompt }]
   });
 

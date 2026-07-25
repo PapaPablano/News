@@ -13,7 +13,7 @@ export async function handleSearchRequest({ query, client, model }) {
   try {
     response = await client.messages.create({
       model,
-      max_tokens: 8000,
+      max_tokens: 16000,
       tools: [{ type: "web_search_20250305", name: "web_search" }],
       messages: [{ role: "user", content: prompt }]
     });

@@ -1,6 +1,6 @@
 [
   {
-    "name": "Reuters",
-    "feedUrl": "https://feeds.reuters.com/reuters/topNews"
+    "name": "NPR",
+    "feedUrl": "https://feeds.npr.org/1001/rss.xml"
   }
 ]
