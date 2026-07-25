@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-07-25T18:32:52.433Z",
+  "query": "World News",
+  "headline": "Global diplomacy grapples with overlapping conflicts and shifting centers of peacemaking as 2026 begins",
+  "consensus": "Multiple outlets agree that international diplomacy is being tested by simultaneous conflicts, including the Iran war and the Cambodia-Thailand dispute, even as commentators debate where and how effective peacemaking now happens.",
+  "sections": [
+    {
+      "subheading": "A world still shaped by conflict",
+      "framingLabel": null,
+      "sentences": [
+        {
+          "text": "Analysts entering 2026 describe a world still shaped by conflict, with the International Crisis Group cataloguing ten flashpoints to watch and the World Economic Forum warning that cooperation matters most in what it calls 'a world at war.'",
+          "sources": [
+            "International Crisis Group",
+            "The World Economic Forum"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Al Arabiya English likewise frames its outlook on the new year around the search for peace amid persistent conflict, while War on the Rocks reviews last year's ceasefires and concludes that pauses in fighting have not translated into durable peace.",
+          "sources": [
+            "Al Arabiya English",
+            "War on the Rocks"
+          ],
+          "disputed": false
+        }
+      ]
+    },
+    {
+      "subheading": "Iran conflict reverberates through diplomacy and economics",
+      "framingLabel": null,
+      "sentences": [
+        {
+          "text": "The fallout from the Iran conflict features prominently, with Modern Diplomacy reporting that G7 finance ministers discussed the economic risks it poses alongside broader global trade fragmentation.",
+          "sources": [
+            "Modern Diplomacy"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "A separate analysis from Diplomacy and Law examines the broader geopolitical implications of the Iran war, while at the Antalya Diplomacy Forum, Turkish President Erdogan warned of a global crisis and urged renewed diplomacy and regional stability.",
+          "sources": [
+            "Diplomacy and Law",
+            "TRT World"
+          ],
+          "disputed": false
+        }
+      ]
+    },
+    {
+      "subheading": "Debate over where peacemaking now happens",
+      "framingLabel": "One perspective:",
+      "sentences": [
+        {
+          "text": "Time Magazine argues that traditional hubs like Geneva are losing relevance, contending that new peacemakers are emerging from the Global South rather than legacy Western institutions.",
+          "sources": [
+            "Time Magazine"
+          ],
+          "disputed": true
+        }
+      ]
+    },
+    {
+      "subheading": "Institutional and educational efforts in traditional diplomacy",
+      "framingLabel": "Another angle:",
+      "sentences": [
+        {
+          "text": "By contrast, other coverage highlights continuity within established diplomatic institutions: the United Nations spotlights women in diplomacy, Leiden University's MIRD Gala frames its 2026 gathering around 'inspiring diplomacy in a changing world,' and Indiana University profiles Cecily Brewer bringing real-world conflict-zone diplomacy into the classroom.",
+          "sources": [
+            "Welcome to the United Nations",
+            "Universiteit Leiden",
+            "News at IU"
+          ],
+          "disputed": true
+        },
+        {
+          "text": "The Georgetown Journal of International Affairs adds that science diplomacy is being leveraged as a tool during times of conflict, reinforcing the case for established diplomatic channels alongside newer actors.",
+          "sources": [
+            "Georgetown Journal of International Affairs"
+          ],
+          "disputed": false
+        }
+      ]
+    },
+    {
+      "subheading": "Other flashpoints and dimensions of global affairs",
+      "framingLabel": null,
+      "sentences": [
+        {
+          "text": "Boston University hosted a discussion on the Cambodia-Thailand dispute, examining conflict, diplomacy, and regional power dynamics in Southeast Asia.",
+          "sources": [
+            "Boston University"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "GIS Reports explores the diplomacy and realist politics surrounding the World Cup, while the Carnegie Endowment for International Peace examines China's pivot on global artificial intelligence policy as another dimension of shifting international competition.",
+          "sources": [
+            "GIS Reports",
+            "Carnegie Endowment for International Peace"
+          ],
+          "disputed": false
+        }
+      ]
+    }
+  ],
+  "disagreementGroups": [
+    {
+      "stance": "Global South is emerging as the new center of effective peacemaking, displacing traditional hubs like Geneva",
+      "sources": [
+        "Time Magazine"
+      ]
+    },
+    {
+      "stance": "Established multilateral and academic institutions remain central to diplomacy and peacebuilding",
+      "sources": [
+        "Welcome to the United Nations",
+        "Universiteit Leiden",
+        "News at IU",
+        "Georgetown Journal of International Affairs"
+      ]
+    }
+  ],
+  "sourceList": [
+    {
+      "name": "Welcome to the United Nations",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ObW5OQ0dMQW5zaWRUZjkycFhibkItaVk0czlnN3RCeU5XdU81V1FCNDRfRGpzU2o3UE9Wc2JQX2M2RVU5MVVtV050WERadTJxMFVtZ2hVTDY2a1pSMzNud2lzVnIxQ3c?oc=5"
+    },
+    {
+      "name": "GIS Reports",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RMzJqVUZiOU9NdmowVlhUSzZsRjBzSkRPVTRIOTJSZDhvMW1DTXhTaTZqMEdKZmQzWmR1ZWxHSWhXQTA1dzFzQUlqaHVtZ2VDR204TjRvdzVwZzJ3Zm9Da1AtYTY?oc=5"
+    },
+    {
+      "name": "Carnegie Endowment for International Peace",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jRkFfSElBTEJUVUVTSURMY3BfUkowa2dYOE0ydm9wWDRGNnRlUnBpMmc4X1hGMV9lQjU4cE00TjYwZHFRS0lZeDVjNU5zV3EtTl9DX2FtNl9laFg2NVRtaFIyeVFDTlpmQjI5NXhoME9iUWdIYTE2NVQ3SDU?oc=5"
+    },
+    {
+      "name": "News at IU",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZFNsQXRCWFo3aEdRd29NaDVXNHBiQm9Ia0o1SlRNUWNNWDlCMTBYbGMzYWpURV84UHRDZzJMNEZIdklIUnZaazA2bGFvQW1YaW1naURaZmlLSmhGcVptZXp1VU1LUlRwT2RNaFVib1Qzd0twYUZXQ1psNVZIRExicUN4b2hTa1NxT3ZIZEtMcHlhYVVXN3V6M0dxR0E?oc=5"
+    },
+    {
+      "name": "Modern Diplomacy",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZlRud2NnSFE4bm16cEtLT1hIR1JlNHZpajEzXzlsSkl0NFAxd3VXbkNQRnp1MzVPYVF4NTBRMmprXzVTaWV2bUwxZ2ZRWHVJOHlZeVRXVjduamxTV3FyeWZrRXkzOHNxTEZfXzduZ3NSVmxtZ2hnUURGeERmOTNydDZObjI1SHcxV1pJVWNiV0tfaGEycUFHYmhwQ2NPSFZpRzh4WUFpYlg2b0txLW05RjFlZWRqNjJTOVdIMUtySkFia3duQVNYZ3FJTEE?oc=5"
+    },
+    {
+      "name": "Diplomacy and Law",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhUWFwcGd5a2FBSWloYloyaWtSZi1Rc3JhYnNiVWVOMDNNT29MTVBLWms5TmlMcXVKUFFKUnFCMDJQX3ZDUkRSWHA1aTJaNzN6RHQzbTRRRnMwWjB1S0hxZTlzS0U0TUtpajRDUXRIYndfMVlaRUJQQw?oc=5"
+    },
+    {
+      "name": "TRT World",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SWTNwalhVbUFFcklnUHpMcnNHSHF5d1ZFQ19fY0hLazlieV9ldHFKdFZCNjNNYUpYVFBScGJyMmI4YWx1RG1fSnJzaGtmTlU5N2EtSmltbnM?oc=5"
+    },
+    {
+      "name": "International Crisis Group",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56N1JndG9YSlRpTXV1ZnpILVdlbmRKSEpPSE5VMkN4TkNRSjRkZmNmOGhWc3JTaUhLem5SOHhIdkZSZ2I4T1dxNDdUczNKbVlqV24waVJvVGN1VlRUTkFFU3RBWnJpTFlnb1FNSFhIaw?oc=5"
+    },
+    {
+      "name": "Universiteit Leiden",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOVYwZ3FSRlZhV1BxdjdxUG9leW5xSmZsdExnc08tVERTekgteEFUVi1Dbzh6OW93anNyM1lQd3VXS3JHd1pzbnpqVXBHdUVucGFHalBTbnFIWGRMdC14YUJlSkVGUkFudzl2aDBwa2lrOFpYeU90ZnpUWG5pVXRucGw4WnZxaDFPb3ZzMTdwcHRBSGxDVjUta1V4WWl0ZExvRlRFV0s5aHZNZTBhSjN1eTcxaVBhc3lhTzNZ?oc=5"
+    },
+    {
+      "name": "Boston University",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSmFPN2wwLVIycHBXem1nLTJqdWY0QXQ2RUR5VUhBcmM3bjhQWm9jVUl4UE9WdlRqNlJldXF6TjBFY2NtNVgzcVpJdk52eFktcGh3VVhTeTZLVVJZSkV5Vl9HdkJvOVRsdVFwLWVBZENJODcycTVMb2FqN0RBMUp6Mm55RHJBWElmMHNvS0dwUmM4ZVljcEczeXBXMXg0eUNzdGNkUl9SQjYxN2tmTk5FOF9pd3FtMkJLaXdtUGNkYjY?oc=5"
+    },
+    {
+      "name": "The World Economic Forum",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMGR1S1ZmbkZOcDdZTl91cEs5ZTRkc3hGYlVET2toTjZTQ1RqaHFFakhlZW9QSEE2ZnpxVklRY0t4MnkxT2RKcENlTlBfLXRGNUd0NmZHMGRObWtad0tNemh0ZjJiN28xMFRFeW5DRXhMNXFYOXVwcTVnTVRDU2xzclBvTGZ5TjdlWndVZWdqTE1JZw?oc=5"
+    },
+    {
+      "name": "Time Magazine",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QWkNmbjZaWmhYQjRHcVVzbkpwUEdGbElzRFE4ekR4eXpQOWhnWEFUYWd0OXFOM3hHbmNseWppb0gxQ2IxZHJuUnpkMDJKVHY4b2hsLTJvSU0wQ2xHRzduTVdaSklkMGMtdXAwMlhGTWVRU1k?oc=5"
+    },
+    {
+      "name": "Al Arabiya English",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPME1PMVByQzM4VG82WFFJQ0ctcUYxN3Z1aHQ3Y0lYYnI3Zko2VGhyMjRzcE5jdmZMeHhVV3B6cHNYVDJZSFFKbE5HeGxyV1JBRWJYYUZTVG1lNXRMbDZKRXoxUkxtQlk5SUJmWFkwSFg0emNSanpSODc5UG1YZmhEZVljeGZTSnFlbzBOLW1ERXV5V1d0ZGdzcEdBa1RGZ3FyNGpxWHZ6ZzVFWXpzZmR2MEtZeVZNcHFqWFBWd1ZiY9IBxAFBVV95cUxORHpQUlhpVV83bU9oQ0o3UDlybVNCVXZ4VEN3WXk0S1hxTUxqR1dkOGVma2xaNExWZ0c3NURfb2N1ZU9DQU5LMXRXV1hfN0pvMERkYlpHMC11ZTJtTHotVGFsYlNlNUF2cm5RNlYzdjRyVUw3dTM1VE5HYTMtSDVZRFFXYVRka1ZwVDJZbk1mMWVfN2J2cHlKbFNLczZXYmFnVXRrd3c5Uk1nWWYwMGRiRHktQ1dFTVF5Q21IV3pPUzhoYmwt?oc=5"
+    },
+    {
+      "name": "War on the Rocks",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUDVhVWNWV0JRVlQwcm1aXzU0d2lnbXMyTTdfSGo4czlDajNxRFc0Q3BLUFB5VWM0RHFuRTF1Y1VWdzJtOWoySFlZLVpZTjcwdHYxVXJNRDVjU3N4dkVMY3FmWVVUN0VveWdGM2lzRTF6QUZKdl9WcTZVS21YSFRDTzZESFBYOUNYSWNaVHZNcGlfcE00OEpvczVXSnY3dmFwcXZnazBWR0xadnBLUk5fNWtxSlQ?oc=5"
+    },
+    {
+      "name": "Georgetown Journal of International Affairs",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeUJMbWhaZ0ZxRmgtTm9VTFhyWG43NE5jZGktZkc0dV9NTFZfS2oyTlVHMjhidHBVQVV0eUlpdzRhQnJNMkdKaFBRTVlnYnFqc2htM2dBYlFEaWJlUkwzc2ktaWs1ZmJ5bXdSbU4xZnhXWmMtM2FDUEllbUxycERCX3lvU21GNkxLZGI4UVRqTV9sZjFTLXJwZXB5UVJydw?oc=5"
+    }
+  ]
+}
