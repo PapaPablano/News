@@ -107,6 +107,10 @@ body {
   color: var(--dissent);
 }
 
+#retry-search {
+  margin-top: 8px;
+}
+
 /* Article headline (render-article.js emits a bare <h1>, no wrapper class --
    scoped to <article> so it doesn't affect other h1s on the page) */
 article h1 {

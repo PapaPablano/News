@@ -1,4 +1,4 @@
-import { renderArticle } from "./render-article.js";
+import { renderArticle, escapeHtml } from "./render-article.js";
 import { loadBeatSummaries, pickOthers } from "./beat-discovery.js";
 import { renderRelatedStrip } from "./related-strip.js";
 
@@ -12,7 +12,7 @@ async function handleSearch(event) {
 
   const content = document.getElementById("content");
   const relatedStrip = document.getElementById("related-strip");
-  content.innerHTML = "<p>Searching…</p>";
+  content.innerHTML = "<p>Searching… this can take up to 30 seconds since we check live sources.</p>";
   if (relatedStrip) relatedStrip.innerHTML = "";
 
   try {
@@ -30,7 +30,8 @@ async function handleSearch(event) {
     }
     content.innerHTML = renderArticle(data);
   } catch (err) {
-    content.innerHTML = `<p class="error">Search failed, try again. (${err.message})</p>`;
+    content.innerHTML = `<p class="error">Search failed, try again. (${escapeHtml(err.message)})</p><button type="button" id="retry-search">Retry</button>`;
+    document.getElementById("retry-search").addEventListener("click", handleSearch);
     return;
   }
 

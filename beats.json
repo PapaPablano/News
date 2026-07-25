@@ -1,7 +1,27 @@
 [
   {
-    "slug": "sample-beat",
-    "label": "Sample Beat (replace me)",
-    "searchTerms": "example topic"
+    "slug": "us-national-news",
+    "label": "US National News",
+    "searchTerms": "national breaking news United States"
+  },
+  {
+    "slug": "us-politics",
+    "label": "US Politics",
+    "searchTerms": "Congress White House election politics Washington"
+  },
+  {
+    "slug": "us-financial",
+    "label": "US Financial Markets",
+    "searchTerms": "stock market economy Federal Reserve inflation earnings"
+  },
+  {
+    "slug": "world-news",
+    "label": "World News",
+    "searchTerms": "international global world conflict diplomacy"
+  },
+  {
+    "slug": "technology",
+    "label": "Technology",
+    "searchTerms": "technology AI software tech industry"
   }
 ]
