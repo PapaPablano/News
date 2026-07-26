@@ -1,0 +1,206 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-07-26T12:40:14.172Z",
+  "query": "US Financial Markets",
+  "headline": "Fed policy, inflation data and corporate earnings continue to whipsaw US stock markets",
+  "consensus": "Multiple outlets agree that Federal Reserve interest-rate decisions, inflation readings, and a wave of corporate earnings—especially from AI-related tech firms and banks—are the dominant forces moving US stock indexes week to week.",
+  "sections": [
+    {
+      "subheading": "What's driving the market narrative",
+      "framingLabel": "Mainstream outlook:",
+      "sentences": [
+        {
+          "text": "Several outlets point to Federal Reserve policy as the central catalyst for US stock trading in the near term.",
+          "sources": [
+            "The Times of India",
+            "Forbes",
+            "Devdiscourse",
+            "Gotrade",
+            "U.S. Bank"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Crude oil prices are also cited as a factor shaping near-term trading direction.",
+          "sources": [
+            "The Times of India"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Q1 corporate earnings, particularly results from AI-related technology companies, are flagged as another major swing factor for stocks.",
+          "sources": [
+            "The Times of India",
+            "Forbes",
+            "Devdiscourse"
+          ],
+          "sources_note": null,
+          "disputed": false
+        },
+        {
+          "text": "Investopedia's recurring weekly previews have highlighted a rotating set of catalysts investors are watching, including inflation data, congressional testimony from officials such as Kevin Warsh, bank earnings, the Fed's rate decision, Powell's press conference, and results from Micron, FedEx and the 'Magnificent Seven' tech giants.",
+          "sources": [
+            "Investopedia"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Gotrade similarly framed the week ahead around the PCE inflation gauge, Micron's earnings, and expectations for a hawkish Fed stance.",
+          "sources": [
+            "Gotrade"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "U.S. Bank's broader 2026 outlook situates these near-term catalysts within a wider discussion of what is driving markets under the Trump administration.",
+          "sources": [
+            "U.S. Bank"
+          ],
+          "disputed": false
+        }
+      ]
+    },
+    {
+      "subheading": "Session-by-session market moves",
+      "framingLabel": null,
+      "sentences": [
+        {
+          "text": "Yahoo Finance reported one session in which the Dow rose while the S&P 500 and Nasdaq retreated following a hotter-than-expected inflation print that triggered a tech sell-off.",
+          "sources": [
+            "Yahoo Finance"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "In a separate session recap, Yahoo Finance reported that the Dow, S&P 500 and Nasdaq slid even as inflation data showed signs of easing, with JPMorgan shares sinking as more bank earnings loomed.",
+          "sources": [
+            "Yahoo Finance"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "On another occasion, Yahoo Finance reported the S&P 500 and Nasdaq notching a fourth straight day of gains as investors looked ahead to the following week's Federal Reserve meeting.",
+          "sources": [
+            "Yahoo Finance"
+          ],
+          "disputed": false
+        }
+      ]
+    },
+    {
+      "subheading": "Warnings about Fed policy and inflation",
+      "framingLabel": "Cautionary alarm:",
+      "sentences": [
+        {
+          "text": "24/7 Wall St. warned that the Federal Reserve is quietly fueling the biggest inflation spike since 2021.",
+          "sources": [
+            "24/7 Wall St."
+          ],
+          "disputed": true
+        },
+        {
+          "text": "The Motley Fool reported that the stock market sounded an alarm after investors received a warning from the Federal Reserve, arguing that historical patterns suggest a specific outcome will follow.",
+          "sources": [
+            "The Motley Fool"
+          ],
+          "disputed": true
+        }
+      ]
+    },
+    {
+      "subheading": "Predictive indicators",
+      "framingLabel": null,
+      "sentences": [
+        {
+          "text": "Morningstar highlighted a simple metric that it argues could help predict future US stock market returns, offering investors an additional lens for gauging the market's trajectory.",
+          "sources": [
+            "Morningstar"
+          ],
+          "disputed": false
+        }
+      ]
+    }
+  ],
+  "disagreementGroups": [
+    {
+      "stance": "Mainstream/outlook framing emphasizing Fed decisions and earnings as routine market drivers",
+      "sources": [
+        "The Times of India",
+        "Forbes",
+        "Devdiscourse",
+        "Gotrade",
+        "U.S. Bank",
+        "Investopedia"
+      ]
+    },
+    {
+      "stance": "Cautionary framing warning that Fed policy is stoking an inflation resurgence and market risk",
+      "sources": [
+        "24/7 Wall St.",
+        "The Motley Fool"
+      ]
+    }
+  ],
+  "sourceList": [
+    {
+      "name": "The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOYmFfUmoybUlJaUViQ3NLbVhWS18xcEoyazQxS1o3aVRLNmlRQlpwR0lQTWFHNnNjZEctcUNaV2RFQUZOMjl6UC1GSUJJSDNuVTBRXzhYOENfN2FuMEF4Mlk4UmloZUU2UlVZVktiSEI0X2M3bm8wMjNxMmNSVEo2M0JKSFVXalg1Y1g2ZGh0N215alRuWmRWeHRQb21EaUJhR1RxZG5nbDVKVGI5V3NTbU9URWpLS3VXODF0SGRIRnFvLWl2RWlDSUlhaXo2XzFiUmI0WGtGZnE1bG4wcTM0NkVoUzRackR5NWR2QlA5eEp6dnVwelpVdtIB_gFBVV95cUxQVGZpNVYxdkVLclNiSnYwbWk4LU4zeHdudGFZRUZoaENsbzhJYlcwUDJ5VVJJRGdGZXV2TmEySTBjVmdJMkRxLTNtUFZ6bmhDWXowLU42M1Zqa21ScXJxdG9VdmtzcnNLOHZGeTVmXzI3eGV5Q1BkUGd5OE85dklTYlk0aWd2clNwSEZvRmNxM1hxTmNVSkFPem9sc1ZYTmpQVkpjeG10Q2s5R1BabU5rQ3k3N3FKd0tnQkU2WVZCeThGV1pRTW5iak5rdS0xUUFzbmRPcTFqT21IYWU5dnFqVm9wdkFDNkxaVy1nS3VjelpiVF9vLURsTXVoWkVrQQ?oc=5"
+    },
+    {
+      "name": "U.S. Bank",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ?oc=5"
+    },
+    {
+      "name": "Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRS1BOUNiOWQ4VWpFcUhRY0RmTGFvcnFScjFraHM2SlMxS3Q3VjB0eDYyazBzdlh1bVVxN1ZJb3B3aTFkY24xeUt6S1l2ejJjeUhQTDl1SFBBbUpUM0VySjg2NzN1SkNNTUtfX0g0aUlLSTA5dllCd3lMU0p5R2g2VEhhc1BQTm9nLVVJc3RBT0ZNX0IwSFhpV0xBcGN5ZzhnYUVXRm5ISWFoY1JzYWh5TUNLLVRCeTlRMVcwYld2QnN1RFN1OF9HS2NfaE0teUxucE1MZ1FDdG9yRXM?oc=5"
+    },
+    {
+      "name": "Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQW1NNjJmMVY2ZXRaRTNrWEJ0elBfMW54SmFIelFqWUtWVkw3OUVvV21jTUZBb2pNekZqcktRTm9MWnV3dzItUGlIbk1ucnMxRUJQZ3MzV0llMTFiLTVETm1XLWhKaWxDajNCM0p4X3VSWThHcUhweWpNU19tS184X1lZRXhzUml4NEhVSTRrd2pZZWhYRWZMYlhfQ3ZxZVNxQThWWm8tTjlLd2FFUzg4SEFXMA?oc=5"
+    },
+    {
+      "name": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYmk1STVwWkVMbjhXdFVqZ25HWmU3akx5cXpqSDJLSmgzbkl3ZTZmQ2lXOFpuTC16ZnBzSlV0UmVFTnFudUJnV2phbEJ6ZVpKZFc1bTlOcms5enpId0NVeG9pbzZ4UHd4eEU1eGZkcGdRejhwUlo5RTZTRWlla0dEUXdaT0k1MFEwczEtUVpJNWVUVU8zR1VNMUFGMW0wWEpvUGp2cTdxRWxUdGJmOGdSV0pDUUxUQUlHS1hlVmVRNUlIXzV4VDJiRVFmUFhuR0wtdFdGbDRkbkprS3RtNEE?oc=5"
+    },
+    {
+      "name": "Gotrade",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBoY2txeDd1RFNpRy1KWlBPSzZJZWw5T2xOWm45d2RxZWFfdlBpSG1QLUtoMDlNV3FUYlRoWkptbUpLWW9laTg5a084blVka3dRaFhWUzF4THp3cFV2MGlueTFGb0taZzBXQlktalNRRm9jU09vU2FFTDFR?oc=5"
+    },
+    {
+      "name": "24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSFRJb1JwcnI0VEhTem9kUlFLbTlFdHRwVHdyZnlsUFZyQVUwNl9kNjRLNE1vcG1meFFjcm5oMnV5S1VHOXdUQ2Zydnk3ekRiSzYzTVNWblVCYWRvYno2SkFJNS1WakFXWXN6VHM3TEhkbml3QjNDT0Ztd0x2eFlhMDFXZFJOVFZWakZ3Y0dmYnVFeV96SEtlaWl2bFVUckJZV0IydjMyMzNYTjNvM2hYRFZ3UE5KcGNuX3p1LVJQS1lGaEN4TnQ1Rg?oc=5"
+    },
+    {
+      "name": "Devdiscourse",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVU9XV3pQWmJEMTVxREU5REpzakVEX29lWF93VFFaSVcyYVNnVXk2cnQxZ3ZFSlVkN0Y1b09QeXo3ZFZoektSQ0RKVmVMNTh4RGowTGdacnVVSVFROEl6MFhRcnM1RjMzUVNMNUtEcXR4b08xWXZDeldUN3otbDVaWndjZms0Um8wSHdWaHRnNXoycngyWnJIdk5LcGNpU1pkSTBvNFdHcjRzUTFqMDJKTFhPLTJhUUUwTTBFWVFQRnprM29T0gHEAUFVX3lxTE9VT1dXelBaYkQxNXFERTlESnNqRURfb2VYX3dUUVpJVzJhU2dVeTZydDFndkVKVWQ3RjVvT1B5ejdkVmh6S1JDREpWZUw1OHhEajBMZ1pydVVJUVE4SXowWFFyczVGMzNRU0w1S0RxdHhvTzFZdkN6V1Q3ei1sNVpad2NmazRSbzBId1ZodGc1ejJyeDJackh2TktwY2lTWmRJMG80V0dyNHNRMWowMkpMWE8tMmFRRTBNMEVZUVBGemszb1M?oc=5"
+    },
+    {
+      "name": "The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd2R6Z0JISngydTZPOWtYUTlEUWVOb0w3VFJDZ21WRWV0NEs3QXB4ZGZHcG1zNzNOa3RZTmgwdWc2R0hIVnBMcXpKdl9hcjVSeVd5bkRtc3BRRnlpaWFPdzk0cTBWV1FycHFxdEZLcms5dVN5S1RoQThRQ2JaR1JRZmFTNzVTSlYzaVJDZHVpckk3QVRX?oc=5"
+    },
+    {
+      "name": "Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUGRwcjY5ZWFBbGxKNzNFQnZiY0lFeUd4Smw3ZmlGTjRYNjZIN0VWZ3JMdVk4MTJSX3FZZEhrd3Q4UnN4djVFNXVPX1ludUpXNU52Z3hZRTdPeTliUVNtd013STVhc2l0cnVORm1PQlVBM2dmOXoxZkhSbmNtbzN2Z1ZBZGNVaWZRX1VmWkdkbDNtWGF5N0Jkd0hJYjExdVNCMmZuLVh4NExSZHRM?oc=5"
+    },
+    {
+      "name": "Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMFl0OHJldHdqWTU4am9NX1ptcVpsYnVzMDVYbGpHRFZBMmFnOVhwS1dJallLbTl1Y3N0X0M3OXBlNERlblp5bXRuV1VjVmxyUXUxM1liUGVEZ0dlbnFmN3NzY0JMc0tGRjY5WnhTX3NFV2lWaldLeEM2QVVHY1hWT0I0TkY1Z0dxOHprem1qYU1Vell0UTdRRGJjbzRTbmxEbDAwTENNQU14X1o5by1LSWh6ZmtISEJfQ3JiQnJ0VQ?oc=5"
+    },
+    {
+      "name": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTkJlZ3ZmOW9OcTNVZURDSlg0VlJjR2dEMG1xWkE5MmF2dnA1MWlKRW1iNzdSS21jbENlVmt2QU5pUnhzdGJLTkdTX0lSVFBPbjc3eUVhZ3dhZTJNX2tPd2lLTmJrMHRYT1A2NUlnWS15cElPdXpzX1BqQW9BUENVbXB2aHVBNTYtZ2RkakFzOUdVTXhJX3BGV1Y4MklEMkxqd1BwYk9yV21UNVlJYXluVzZqcURWRjZsNXBUYy1vTURoeDhvODg5YVllODl4NHR0R1R3b0FnbWw0bVpkVXFNeFdub3BzMGJrMFNJS1JR?oc=5"
+    },
+    {
+      "name": "Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUC04UHJqT1FvbVRjeVMtejFKTHByX3N3cDIyUzkyZDQ3VnpoeFpwbElQSXJyZDRqMnpzWFlUWlRkb1htNW1kanB4VzFRU25GWEp6dGhMd0Z2OHc4SDRIWkxGajY1QXI4OEItam1Oa21hUWxsSGpCYXdlME9sMVkyNXpmU3lOM09CaDlvN2ZxSEk3U1pnN0Zxek4yeTFQT1QtcE5RNXZaMHV6UFo2SThRTENyR1JKRjluZE5XdHVGTGNkMzFzVTdFc0oxdlpzWkp2UWZIWEp4WnVLb00xUWc?oc=5"
+    },
+    {
+      "name": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWFhyVkpSblo1M1hOZkNPMno1V183cGpUMVNSTmMyRjhHRkZKNXY5ZEZUbXF5UHlGejdTNnZGcG5uNi01bGtxZnBHb2cwYmVZTThiY2h4cV9MakFMLWc4bzY4VVhScDlkM282TTVveG4zaFdRc1prQ09ZOTVJOGpwUFVlMDZWU2pyR01TRkp3UnU3SFUwYW5NY1ZiNjJPSXp1cUwtR0lOWndjVDJ0cDQ5RXFOVU5GUGFPWGR5dVYxSzUzQUdVSTk0ZGxuVkF3VHJPTnpTajNfQTRnVWVkbkZZ?oc=5"
+    },
+    {
+      "name": "Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPa3Y2SE5WRTduLVVMWXJGaDVJejcxSFlpbkc5VFRrMWl5Q3lzbzFfSVhLcU1MMURqOW42akZjcXY4V0c3NUUxSDNGX3JwQzh4U215RTdqTm5jSTRNNzFJamNvMzdUQ3hfM1ZxN2p5U2ZiempLbVFZYW5nZmxNZlJUZHU1R1hNNWlKaFhESU54a25FZ3ppQzRWX1FYd293VS0yQjhRc3Q0N1hoNXRUckk0RFdiTWFNQ1JMWXI4MUlNNnBWQm9JdnFWc09tVXBkZmVOcTlXMFpqWU4tTVl6Zms4?oc=5"
+    }
+  ]
+}

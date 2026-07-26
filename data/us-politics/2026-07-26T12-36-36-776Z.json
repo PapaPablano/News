@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-07-26T12:36:36.776Z",
+  "query": "US Politics",
+  "headline": "Trump escalates efforts to reshape midterm election rules as Supreme Court weakens the Voting Rights Act and 2026 races take shape",
+  "consensus": "Multiple outlets report that the Trump administration is pushing to change election rules and processes ahead of the 2026 midterms while the Supreme Court has weakened a key civil-rights-era voting protection, developments that are already shaping early midterm contests.",
+  "sections": [
+    {
+      "subheading": "Trump's Push to Overhaul Election Rules",
+      "framingLabel": "Trump's framing:",
+      "sentences": [
+        {
+          "text": "Trump fired members of a bipartisan federal elections commission.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "He is being urged by allies to declare a national emergency in order to claim executive power over elections.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "With time running out before the midterms, Trump is digging in on demands to change the rules governing the elections.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        }
+      ]
+    },
+    {
+      "subheading": "Republican Pushback and Risks",
+      "framingLabel": "Critics' and analysts' framing:",
+      "sentences": [
+        {
+          "text": "Trump's latest emergency declaration has left his own Republican allies in Congress scrambling to respond.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": true
+        },
+        {
+          "text": "He has remained defiant even in the face of rare, open resistance from congressional Republicans to his election-rule proposals.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": true
+        },
+        {
+          "text": "Despite Trump's claim that his voting bill will secure Republican victory, reporting suggests the measure could actually backfire on the party.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": true
+        }
+      ]
+    },
+    {
+      "subheading": "Supreme Court Weakens the Voting Rights Act",
+      "framingLabel": null,
+      "sentences": [
+        {
+          "text": "The Supreme Court has weakened a landmark Civil Rights-era provision of the Voting Rights Act.",
+          "sources": [
+            "PBS",
+            "The Washington Post"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "The ruling is seen as aiding Republican efforts to control the House by limiting a key tool used to challenge discriminatory election maps.",
+          "sources": [
+            "PBS"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "In response, Black members of Congress say they are focusing on driving 'massive voter turnout' after the gutting of the civil rights law.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        }
+      ]
+    },
+    {
+      "subheading": "Midterm Landscape and Party Dynamics",
+      "framingLabel": null,
+      "sentences": [
+        {
+          "text": "With midterm elections roughly nine months away, analysts are assessing how the political landscape is shifting.",
+          "sources": [
+            "Council on Foreign Relations"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Republican wins on newly drawn election maps have given Democrats a steeper climb to retake control of Congress.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "A recent GOP loss in Trump's own Mar-a-Lago district is being read as a signal about broader midterm trends.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Attention is also turning to a closely watched special congressional election in New Jersey as an early test of the parties' strength.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Separately, Trump delivered a prime-time address that commentators broke down into four key takeaways.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Amid the broader political maneuvering, two wealthy Democratic former friends are now spending millions of dollars attacking each other.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        }
+      ]
+    }
+  ],
+  "disagreementGroups": [
+    {
+      "stance": "Trump's framing of election-rule changes as necessary and beneficial",
+      "sources": [
+        "The Washington Post"
+      ]
+    },
+    {
+      "stance": "Reporting emphasizing GOP resistance, scrambling, and potential backfire risks",
+      "sources": [
+        "The Washington Post"
+      ]
+    }
+  ],
+  "sourceList": [
+    {
+      "name": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWTNNQWxOZFJGMVV0aUVSdE5TM0JrVVM0dGNJUFRjczFtdk5MUmx0eU9iVC1JVDJmdzRYVDhYXy1zT3N1V2NaYmlGdW9HWlpoYXFna282VmRieXNwWUIzUEVJdkdYbEhQRzhBTWdzS2xCdmgyQWdiWWIta1BqcHJDNW9UcHVqWllaS0hOMDRlU1g1a0xrbU9xQ244UjNOS2JEa2dLbjVlWG03Zw?oc=5"
+    },
+    {
+      "name": "PBS",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX1FaT3V3bVM1RTNvYVpmOENUeFRYQjVpOENaNnpKRkNLZnowbGFLU2NKVU9JOTd5S3RYcDY4ZzZBeUU3MklyUWdBaEZ0N2o1eFVCcnBIU0lFZ01hVWV1TFV0TlNNU19uTzNnYndVQTRDLVc5cjFvRmNXV3ozNzhxVE1meDhTaEpCRFJJYzQ0UHNobGdwRVc5MWdnR2pRRUdIQnpoRFpSeU1KVEN4bDRPTGZ1anhWT3o3T1c4ZDl2STlVWkFLcXg2Q1NMX0x4VTVrRXfSAdcBQVVfeXFMT0VVR1o4VEgybFhVbVRBWXppRWJMblFoZ0hybUFDNXY5Zjg5Q1BzV09qZ3ZaSXlWNzRvbzZRWkdlS2NOeEpHQzQ3N1Jfd29mVmE0TG9Ecm9iM1Y2SmxPdzg1SlItNW5SQVJ0VE1uNnZBcmNKVFppbmc5SnNEdlNrR1A2SE95RlQ2QkN2R01WY3podURLUkRNelU1Wmk0aE1STmd1SWRLNHllTm1XVmFlZ1FlS1N5aHdDbEpoWnoySnlLcUVvRG9SZ195eUxFWWZmVWdSQkFlVEE?oc=5"
+    },
+    {
+      "name": "Council on Foreign Relations",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EbXZEMnpQd252ODlMNlJxRVhOOGNNel83Qk9iZWQzbHNidUNmaGgtaFdVbTdIRUNNRE1kNEdnS3dvUGhhellRTU5ManVkSmUtdHdUNDBMeEpBOUdESGdkMDNlZ1laX0I5NGFwSkYxd0thTlZfN2c?oc=5"
+    }
+  ]
+}
