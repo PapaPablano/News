@@ -1,0 +1,223 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-07-26T07:09:15.997Z",
+  "query": "US Financial Markets",
+  "headline": "US stocks swing through a stretch of Fed meetings, mixed inflation data, and heavy earnings from banks, chipmakers and Big Tech",
+  "consensus": "Multiple outlets agree that Federal Reserve policy decisions, incoming inflation data, and a dense earnings calendar spanning banks, semiconductor makers and Magnificent Seven tech companies have been the dominant forces moving US markets in recent weeks.",
+  "sections": [
+    {
+      "subheading": "Daily market moves",
+      "framingLabel": null,
+      "sentences": [
+        {
+          "text": "Coverage of individual trading sessions shows a choppy market, with the Dow, S&P 500 and Nasdaq alternating between gains and losses depending on the day's data.",
+          "sources": [
+            "Yahoo Finance"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "On one session the Dow rose while the S&P 500 and Nasdaq retreated after a hotter-than-expected inflation print triggered a tech sell-off.",
+          "sources": [
+            "Yahoo Finance"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "On another day major indexes slid even as inflation data showed signs of easing, with JPMorgan shares sinking as more bank earnings loomed.",
+          "sources": [
+            "Yahoo Finance"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Elsewhere, the S&P 500 and Nasdaq notched a fourth consecutive day of gains as investors looked ahead to an upcoming Federal Reserve meeting.",
+          "sources": [
+            "Yahoo Finance"
+          ],
+          "disputed": false
+        }
+      ]
+    },
+    {
+      "subheading": "The Fed at center stage",
+      "framingLabel": null,
+      "sentences": [
+        {
+          "text": "A recurring theme across weekly market previews is the Federal Reserve's interest rate decisions, with Investopedia repeatedly flagging the Fed meeting, Powell's press conference, and related testimony as key catalysts for markets.",
+          "sources": [
+            "Investopedia"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Congressional testimony from Kevin Warsh has also been cited as a market-moving event this week, alongside inflation data and bank earnings.",
+          "sources": [
+            "Investopedia"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Gotrade similarly highlighted a hawkish Fed stance, PCE inflation data, and Micron earnings as the week's main drivers.",
+          "sources": [
+            "Gotrade"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Reuters described soaring US stocks heading into a pivotal week combining tech-led earnings with a Fed meeting, while Devdiscourse and Forbes both tied the market's near-term trajectory to the interplay between the Fed's rate decision and AI-driven earnings.",
+          "sources": [
+            "Reuters",
+            "Devdiscourse",
+            "Forbes"
+          ],
+          "disputed": false
+        }
+      ]
+    },
+    {
+      "subheading": "Earnings season drivers",
+      "framingLabel": null,
+      "sentences": [
+        {
+          "text": "Bank earnings and results from major memory-chip and tech names have been consistently flagged as pivotal to market direction.",
+          "sources": [
+            "Investopedia"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Investopedia's weekly previews pointed to post-Fed inflation readings paired with earnings from a 'hot memory maker,' as well as Micron and FedEx results, as events investors were watching closely.",
+          "sources": [
+            "Investopedia"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Reuters and Investopedia both noted that earnings from Magnificent Seven technology companies were rolling in alongside the Fed meeting, adding to market volatility.",
+          "sources": [
+            "Reuters",
+            "Investopedia"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Forbes and Devdiscourse framed AI-related earnings specifically as a swing factor that could determine whether the broader rally continues or stalls.",
+          "sources": [
+            "Forbes",
+            "Devdiscourse"
+          ],
+          "disputed": false
+        }
+      ]
+    },
+    {
+      "subheading": "Optimistic reading: AI and policy support gains",
+      "framingLabel": "One perspective:",
+      "sentences": [
+        {
+          "text": "U.S. Bank's overview of the Trump administration's market impact frames 2026 conditions in relatively constructive terms, attributing market direction to broader administration policy and macro forces.",
+          "sources": [
+            "U.S. Bank"
+          ],
+          "disputed": true
+        },
+        {
+          "text": "Forbes and Reuters similarly cast the market outlook as hinging on strong AI earnings, suggesting upside potential if tech results and Fed decisions align favorably.",
+          "sources": [
+            "Forbes",
+            "Reuters"
+          ],
+          "disputed": true
+        },
+        {
+          "text": "Morningstar offered an analytical lens, presenting a simple valuation-based metric as a potential predictor of future US stock market returns, without adopting an overtly bearish tone.",
+          "sources": [
+            "Morningstar"
+          ],
+          "disputed": false
+        }
+      ]
+    },
+    {
+      "subheading": "Cautionary reading: inflation and Fed warnings",
+      "framingLabel": "Another angle:",
+      "sentences": [
+        {
+          "text": "24/7 Wall St. warned that the Federal Reserve is 'quietly fueling' the biggest inflation spike since 2021, casting current Fed policy as a risk rather than a support for markets.",
+          "sources": [
+            "24/7 Wall St."
+          ],
+          "disputed": true
+        },
+        {
+          "text": "The Motley Fool reported that the stock market has sounded an alarm following a warning from the Federal Reserve, and argued that historical patterns suggest a specific, less favorable outcome is likely to follow.",
+          "sources": [
+            "The Motley Fool"
+          ],
+          "disputed": true
+        }
+      ]
+    }
+  ],
+  "disagreementGroups": [
+    {
+      "stance": "Constructive/optimistic outlook tied to AI earnings and policy tailwinds",
+      "sources": [
+        "U.S. Bank",
+        "Forbes",
+        "Reuters",
+        "Morningstar"
+      ]
+    },
+    {
+      "stance": "Cautionary outlook emphasizing Fed-driven inflation risk and warning signals",
+      "sources": [
+        "24/7 Wall St.",
+        "The Motley Fool"
+      ]
+    }
+  ],
+  "sourceList": [
+    {
+      "name": "U.S. Bank",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ?oc=5"
+    },
+    {
+      "name": "Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRS1BOUNiOWQ4VWpFcUhRY0RmTGFvcnFScjFraHM2SlMxS3Q3VjB0eDYyazBzdlh1bVVxN1ZJb3B3aTFkY24xeUt6S1l2ejJjeUhQTDl1SFBBbUpUM0VySjg2NzN1SkNNTUtfX0g0aUlLSTA5dllCd3lMU0p5R2g2VEhhc1BQTm9nLVVJc3RBT0ZNX0IwSFhpV0xBcGN5ZzhnYUVXRm5ISWFoY1JzYWh5TUNLLVRCeTlRMVcwYld2QnN1RFN1OF9HS2NfaE0teUxucE1MZ1FDdG9yRXM?oc=5"
+    },
+    {
+      "name": "Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQW1NNjJmMVY2ZXRaRTNrWEJ0elBfMW54SmFIelFqWUtWVkw3OUVvV21jTUZBb2pNekZqcktRTm9MWnV3dzItUGlIbk1ucnMxRUJQZ3MzV0llMTFiLTVETm1XLWhKaWxDajNCM0p4X3VSWThHcUhweWpNU19tS184X1lZRXhzUml4NEhVSTRrd2pZZWhYRWZMYlhfQ3ZxZVNxQThWWm8tTjlLd2FFUzg4SEFXMA?oc=5"
+    },
+    {
+      "name": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYmk1STVwWkVMbjhXdFVqZ25HWmU3akx5cXpqSDJLSmgzbkl3ZTZmQ2lXOFpuTC16ZnBzSlV0UmVFTnFudUJnV2phbEJ6ZVpKZFc1bTlOcms5enpId0NVeG9pbzZ4UHd4eEU1eGZkcGdRejhwUlo5RTZTRWlla0dEUXdaT0k1MFEwczEtUVpJNWVUVU8zR1VNMUFGMW0wWEpvUGp2cTdxRWxUdGJmOGdSV0pDUUxUQUlHS1hlVmVRNUlIXzV4VDJiRVFmUFhuR0wtdFdGbDRkbkprS3RtNEE?oc=5"
+    },
+    {
+      "name": "Gotrade",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBoY2txeDd1RFNpRy1KWlBPSzZJZWw5T2xOWm45d2RxZWFfdlBpSG1QLUtoMDlNV3FUYlRoWkptbUpLWW9laTg5a084blVka3dRaFhWUzF4THp3cFV2MGlueTFGb0taZzBXQlktalNRRm9jU09vU2FFTDFR?oc=5"
+    },
+    {
+      "name": "24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSFRJb1JwcnI0VEhTem9kUlFLbTlFdHRwVHdyZnlsUFZyQVUwNl9kNjRLNE1vcG1meFFjcm5oMnV5S1VHOXdUQ2Zydnk3ekRiSzYzTVNWblVCYWRvYno2SkFJNS1WakFXWXN6VHM3TEhkbml3QjNDT0Ztd0x2eFlhMDFXZFJOVFZWakZ3Y0dmYnVFeV96SEtlaWl2bFVUckJZV0IydjMyMzNYTjNvM2hYRFZ3UE5KcGNuX3p1LVJQS1lGaEN4TnQ1Rg?oc=5"
+    },
+    {
+      "name": "Devdiscourse",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVU9XV3pQWmJEMTVxREU5REpzakVEX29lWF93VFFaSVcyYVNnVXk2cnQxZ3ZFSlVkN0Y1b09QeXo3ZFZoektSQ0RKVmVMNTh4RGowTGdacnVVSVFROEl6MFhRcnM1RjMzUVNMNUtEcXR4b08xWXZDeldUN3otbDVaWndjZms0Um8wSHdWaHRnNXoycngyWnJIdk5LcGNpU1pkSTBvNFdHcjRzUTFqMDJKTFhPLTJhUUUwTTBFWVFQRnprM29T0gHEAUFVX3lxTE9VT1dXelBaYkQxNXFERTlESnNqRURfb2VYX3dUUVpJVzJhU2dVeTZydDFndkVKVWQ3RjVvT1B5ejdkVmh6S1JDREpWZUw1OHhEajBMZ1pydVVJUVE4SXowWFFyczVGMzNRU0w1S0RxdHhvTzFZdkN6V1Q3ei1sNVpad2NmazRSbzBId1ZodGc1ejJyeDJackh2TktwY2lTWmRJMG80V0dyNHNRMWowMkpMWE8tMmFRRTBNMEVZUVBGemszb1M?oc=5"
+    },
+    {
+      "name": "The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd2R6Z0JISngydTZPOWtYUTlEUWVOb0w3VFJDZ21WRWV0NEs3QXB4ZGZHcG1zNzNOa3RZTmgwdWc2R0hIVnBMcXpKdl9hcjVSeVd5bkRtc3BRRnlpaWFPdzk0cTBWV1FycHFxdEZLcms5dVN5S1RoQThRQ2JaR1JRZmFTNzVTSlYzaVJDZHVpckk3QVRX?oc=5"
+    },
+    {
+      "name": "Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUGRwcjY5ZWFBbGxKNzNFQnZiY0lFeUd4Smw3ZmlGTjRYNjZIN0VWZ3JMdVk4MTJSX3FZZEhrd3Q4UnN4djVFNXVPX1ludUpXNU52Z3hZRTdPeTliUVNtd013STVhc2l0cnVORm1PQlVBM2dmOXoxZkhSbmNtbzN2Z1ZBZGNVaWZRX1VmWkdkbDNtWGF5N0Jkd0hJYjExdVNCMmZuLVh4NExSZHRM?oc=5"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQm9RRmotOFkyNjhOVmtYM2RjbWFhT1VzeUpYYVRzLUZPbmlhM3V1YldhVG9SV2dFZUlBYmg0ZW9pdGpYekRGUkZLNFdMVlJmR2dUbXp2SjZHM2I5VEliT1loMEQxckNoNVN2R2pvNzNXaFhobWdpMXFRQ2ZZYVA2bkN3cnBMS2tXYVVuSWV2R21Vd1BVZEJLcXhKYWo5d2Z2bEdaa2tDMzczMEpCZ282eThaZzVJV2tNRDBweE9B?oc=5"
+    }
+  ]
+}

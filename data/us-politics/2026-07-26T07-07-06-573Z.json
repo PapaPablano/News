@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-07-26T07:07:06.573Z",
+  "query": "US Politics",
+  "headline": "Trump intensifies push to reshape election rules as Supreme Court curbs Voting Rights Act ahead of 2026 midterms",
+  "consensus": "Multiple outlets report that President Trump is moving aggressively to alter federal election rules and structures ahead of the 2026 midterms, even as the Supreme Court has narrowed a key Voting Rights Act protection and early special-election results raise questions about Republican prospects.",
+  "sections": [
+    {
+      "subheading": "Trump's Push to Reshape Election Rules",
+      "framingLabel": null,
+      "sentences": [
+        {
+          "text": "In a prime-time address, President Trump laid out his priorities for the coming year, with commentators noting several key takeaways from the speech.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "With time running out before the midterms, Trump has dug in on efforts to change election rules.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "He has been urged by allies to declare a national emergency to seize greater executive power over elections, and has since made such a declaration, leaving Republican allies scrambling to respond.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Trump has remained defiant even in the face of rare resistance from congressional Republicans.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "He also fired members of a bipartisan federal elections commission.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "A voting bill that Trump has said will secure electoral victory could instead backfire on Republicans, according to analysis.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        }
+      ]
+    },
+    {
+      "subheading": "Supreme Court Narrows the Voting Rights Act",
+      "framingLabel": "One perspective:",
+      "sentences": [
+        {
+          "text": "The Supreme Court limited a key provision of the landmark Voting Rights Act.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "PBS characterized the ruling as weakening the civil rights-era law in a way that aids Republican efforts to control the House.",
+          "sources": [
+            "PBS"
+          ],
+          "disputed": true
+        },
+        {
+          "text": "In response, Black members of Congress said they are focusing on generating 'massive voter turnout' after the law was gutted.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        }
+      ]
+    },
+    {
+      "subheading": "Supreme Court Narrows the Voting Rights Act",
+      "framingLabel": "Another angle:",
+      "sentences": [
+        {
+          "text": "The Washington Post described the same ruling more narrowly as limiting a key provision of the Voting Rights Act, without framing it explicitly in terms of partisan advantage.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": true
+        }
+      ]
+    },
+    {
+      "subheading": "The 2026 Midterm Landscape",
+      "framingLabel": null,
+      "sentences": [
+        {
+          "text": "With midterm elections now nine months away, analysts are assessing the shifting political terrain.",
+          "sources": [
+            "Council on Foreign Relations"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Republican wins on redistricting and election maps have given Democrats a steeper climb toward retaking control of Congress.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "A Republican loss in Trump's own Mar-a-Lago congressional district has been read as a signal about midterm dynamics.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "The White House has told House Republicans to avoid talking about mass deportation ahead of the midterms.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Separately, two wealthy Democratic donors who were once friends are now spending millions of dollars attacking each other.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        }
+      ]
+    }
+  ],
+  "disagreementGroups": [
+    {
+      "stance": "Ruling framed as aiding GOP efforts to control the House",
+      "sources": [
+        "PBS"
+      ]
+    },
+    {
+      "stance": "Ruling described neutrally as limiting a Voting Rights Act provision",
+      "sources": [
+        "The Washington Post"
+      ]
+    }
+  ],
+  "sourceList": [
+    {
+      "name": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWTNNQWxOZFJGMVV0aUVSdE5TM0JrVVM0dGNJUFRjczFtdk5MUmx0eU9iVC1JVDJmdzRYVDhYXy1zT3N1V2NaYmlGdW9HWlpoYXFna282VmRieXNwWUIzUEVJdkdYbEhQRzhBTWdzS2xCdmgyQWdiWWIta1BqcHJDNW9UcHVqWllaS0hOMDRlU1g1a0xrbU9xQ244UjNOS2JEa2dLbjVlWG03Zw?oc=5"
+    },
+    {
+      "name": "PBS",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX1FaT3V3bVM1RTNvYVpmOENUeFRYQjVpOENaNnpKRkNLZnowbGFLU2NKVU9JOTd5S3RYcDY4ZzZBeUU3MklyUWdBaEZ0N2o1eFVCcnBIU0lFZ01hVWV1TFV0TlNNU19uTzNnYndVQTRDLVc5cjFvRmNXV3ozNzhxVE1meDhTaEpCRFJJYzQ0UHNobGdwRVc5MWdnR2pRRUdIQnpoRFpSeU1KVEN4bDRPTGZ1anhWT3o3T1c4ZDl2STlVWkFLcXg2Q1NMX0x4VTVrRXfSAdcBQVVfeXFMT0VVR1o4VEgybFhVbVRBWXppRWJMblFoZ0hybUFDNXY5Zjg5Q1BzV09qZ3ZaSXlWNzRvbzZRWkdlS2NOeEpHQzQ3N1Jfd29mVmE0TG9Ecm9iM1Y2SmxPdzg1SlItNW5SQVJ0VE1uNnZBcmNKVFppbmc5SnNEdlNrR1A2SE95RlQ2QkN2R01WY3podURLUkRNelU1Wmk0aE1STmd1SWRLNHllTm1XVmFlZ1FlS1N5aHdDbEpoWnoySnlLcUVvRG9SZ195eUxFWWZmVWdSQkFlVEE?oc=5"
+    },
+    {
+      "name": "Council on Foreign Relations",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EbXZEMnpQd252ODlMNlJxRVhOOGNNel83Qk9iZWQzbHNidUNmaGgtaFdVbTdIRUNNRE1kNEdnS3dvUGhhellRTU5ManVkSmUtdHdUNDBMeEpBOUdESGdkMDNlZ1laX0I5NGFwSkYxd0thTlZfN2c?oc=5"
+    }
+  ]
+}

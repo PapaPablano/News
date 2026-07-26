@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-07-26T07:06:00.203Z",
+  "query": "US National News",
+  "headline": "Trump administration moves on Smithsonian, science oversight and trade coincide with heat dome danger, an ICE killing in Maine, and shifting signals on an Iran ceasefire",
+  "consensus": "Multiple outlets report a cluster of separate developments in US national news, including new Trump administration actions on institutions and policy, a dangerous heat dome, a fatal ICE operation in Maine, and unsettled U.S.-Iran ceasefire diplomacy.",
+  "sections": [
+    {
+      "subheading": "Trump Administration Policy Moves",
+      "framingLabel": null,
+      "sentences": [
+        {
+          "text": "President Trump ordered new signs placed outside the Smithsonian's National Museum of American History, asserting that its portrayal of U.S. history is \"inaccurate.\"",
+          "sources": [
+            "Facebook (Breaking News)",
+            "ABC News"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "The move marks the latest escalation in the administration's dispute with the Smithsonian.",
+          "sources": [
+            "ABC News"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Trump also fired the independent board that oversees the National Science Foundation.",
+          "sources": [
+            "PBS"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "He nominated U.S. Attorney Jay Clayton to serve as director of national intelligence.",
+          "sources": [
+            "Federal News Network"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "The administration halted a housing bill while turning its attention toward changes to voting laws.",
+          "sources": [
+            "U.S. News & World Report"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Trump also said he wants to cut off trade with Spain, prompting analysis of what the U.S. currently gets from that trade relationship.",
+          "sources": [
+            "U.S. News & World Report"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Separately, the Supreme Court concluded its term, having decided several major cases.",
+          "sources": [
+            "U.S. News & World Report"
+          ],
+          "disputed": false
+        }
+      ]
+    },
+    {
+      "subheading": "Iran-Israel Diplomacy",
+      "framingLabel": null,
+      "sentences": [
+        {
+          "text": "The U.S. and Iran reportedly reached a framework deal to end the war and reopen the Strait of Hormuz, according to statements from Trump and Pakistan's prime minister.",
+          "sources": [
+            "NBC News",
+            "CBS News"
+          ],
+          "disputed": true
+        },
+        {
+          "text": "Trump said Israeli Prime Minister Netanyahu would do \"whatever I want\" regarding Iran and that he was \"in no hurry\" to finalize an agreement.",
+          "sources": [
+            "CBS News"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "A source told CBS News that Trump had personally edited the draft agreement, including provisions on enriched uranium and the Strait of Hormuz.",
+          "sources": [
+            "CBS News"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Despite the reported framework, Trump later called Iran's response to the peace proposal \"totally unacceptable.\"",
+          "sources": [
+            "CBS News"
+          ],
+          "disputed": true
+        },
+        {
+          "text": "Israeli strikes in Lebanon were reported to further threaten the fragile agreement.",
+          "sources": [
+            "CBS News"
+          ],
+          "disputed": false
+        }
+      ]
+    },
+    {
+      "subheading": "Public Safety, Immigration, and Elections",
+      "framingLabel": null,
+      "sentences": [
+        {
+          "text": "A heat dome expanded across the central United States, creating dangerous conditions for millions of Americans.",
+          "sources": [
+            "WTOP"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "In Maine, a Colombian national was killed by an ICE agent during an immigration enforcement operation.",
+          "sources": [
+            "BBC"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Meanwhile, coverage of the 2026 national primary elections included live results and mapping of races nationwide.",
+          "sources": [
+            "NBC News"
+          ],
+          "disputed": false
+        }
+      ]
+    }
+  ],
+  "disagreementGroups": [
+    {
+      "stance": "Deal reached / framework agreed",
+      "sources": [
+        "NBC News",
+        "CBS News"
+      ]
+    },
+    {
+      "stance": "Deal uncertain / Iran's response rejected",
+      "sources": [
+        "CBS News"
+      ]
+    }
+  ],
+  "sourceList": [
+    {
+      "name": "WTOP",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSVVWLWVYWjNjYnFMVDZsbEpQUTRHaUVtY0Yyc1hLOUFzZkdULUlTVE1jeUk5eFhTNEgxWlk4dHhqZEwwS3B3TTM3bGV5MzlqaS1Zdm5XR2NxWUFlb09PbHBTMFZKSkdDRWxBYjdDUE1yQ2ZwOVZSel9BY0NXdExjWVNVZkJwUnZEUFVnZ3A4QUZubkcwTVRobUZROHZkckZLUTZiSkJjcWREejBLb3hGa3NOa1BtdkItcFpFVEJmTVhDU0hrem40?oc=5"
+    },
+    {
+      "name": "Facebook (Breaking News)",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQWRfWXRibmU0eWZvS1psRWdaZE1rdzR2c0xLU2lEZHNYcmNpRVBSdnVqbU15MEVSUlYwM0FfNjI5Z05KZU5YelRwQWVHblh2dkUwUXRHQWZ4OUEwSm9iVVRvcVM0RFhpYVlzMFVpLVhQNC1QN2p1TWhmaTN1ZnEtcVgxQ0hEZ0dMVHRVVWphZ3RhVnZqY2FoSXoyVVM2d2NqY2tzVWxsRDdGTWJwbnM2MEk2MTVQeFJhZUlGUm9Qc05vWHJ1VVdaOWFLSUFGMFJRQ1pv?oc=5"
+    },
+    {
+      "name": "ABC News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZW5vNzRJbE9BUVRMY2JYVVJpbWFJdXlDeWFvdWxSU04wLVM4dnNLMlNuTzRMVjdXODAya1VqdEhPZ3ZUOF96M0xNZEJMRERtZ19DRzBVbF8zS2JyTDBJV3cwb09RWXhBSGZGZTJselRVaUdZZ3ZMZm1obVlfekhMVEZfTmlrYzNDNFVDV01sN0F3eDlvSWp6SWNnSzRidkN4MllZV1Fn0gGrAUFVX3lxTE5XQWR4cUNwZERXdjZheDlvZ3RaMWZENW1KRDgwdm54eGNlY0p1VkFkcjNjVFpEelhKLXJqWnBQb2hBVC1Iem5CM0VldzVTM1V4ZGlLbGw3OWVLUzRQOHlGOFJjWTk1SmlUYmFjeFFNckRsLWFDN0ZGR1daNDdxcTBiVG9SSEZ2OXloVFF5VzVFbFhtSmlNbmp2aGhrTV80aWkyV2ozbzRxeHM2UQ?oc=5"
+    },
+    {
+      "name": "NBC News",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkNV9IM2xTNmVHV2tnUHd5NGRPT0cxSnY5blVHWG1UdlF3U2JDay1jZjE0MGp5S1REc0syWEpuOHBKbHpodnExWm1OcF9UTlhQWl9DeGZYWkk1SXhKUFdNcE8tdWhUODk4OERTSGg3WnIwdw?oc=5"
+    },
+    {
+      "name": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3SlYtV2h3dG4ta3B4WGR3bVJrZHk3SzhEQ05nc3hDcHBkOElzYnR1NHpnSVdKQS1WZURyTWw4QkFNY19KbHFvNUJWQXFEOG9WeUE1TTQxSmtQQQ?oc=5"
+    },
+    {
+      "name": "U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQWpPb1FETmNRa2RiTVhJeWRyS0RkNmpQRFZFemJlblNpWkRSNnpENVNVemhpcVZiMzVyVDFwY1h6NkpQS3dsS2U3V2pmRXE4dkFLZ1FRTFdwbVUxcnNCVTZWd3FTMVgwMzJDd0hYUGFoWXZDUVl5X2xZenZpRzQ0cldRRW1XMzZnWGZjS2ZfblBvZ3g1bTBDZE5UcXdsTjllRW9ta1BBLTBqSFcyRmxzODhrUnJMaWd6LWgyYk9kcUsxN2RGRm1zNG4xZm5DVVR4dkY0dV9SZm9DQQ?oc=5"
+    },
+    {
+      "name": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUlhvS2pRZXhlSm5RRDdYRWdDTXVZc3dSVWw3SVBsa05JbEltWFh1dnVLaExCUUN2TzJoN3F3cVlXRDJocVJpeWprTEdPek10WERFVHc2bXlWaUxpcXBqYUNQTDRqMGlmU0RybHJXN0xtbC1DbmlrYTF4NVhlZEVGaUF4clFoSjJIQ2xFMGQ2Z3hSOE3SAZgBQVVfeXFMT2U1NlBKMl9IMHdqRXY5Y1dncU5jQnZmcXlibkhBcTIxSDh4VzEwS1R5eEEyZU1hLXBSR21JRTVZUVFQYzB3SkVRU2VGTDlhVVJwZFdKYVY4VkU4RXhITnBkd216dTFwWTUyczNBZnZsSjgwUVQzVGg1RUN0SS0zYjhCUUZKTmZ5ZWVDbXRZVVJTWU1JUzdFMm0?oc=5"
+    },
+    {
+      "name": "Federal News Network",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRHhFR1ZHRVdMenBfVERidURfOUE2b1IzcFA4ZWpqZkFJSWE2WmxHcmZ5akRqRGh1Q2J5aEdNdzd4SGVfYi1LcDZWT21MaE1JUUYwMC15MnlKR1RnTlRzSEdpaWJQdXRqeWNka1NXZG1oODVRNDczd3N5Szh0U2dkTzU4S1Z3U2x6Vjl5MDBrczhpWTVRdXN1c2Q1eEh3bHdROGRBUWl3ME9odERtN1dudWJvWW95dWJIUXpDWFVfRHpHNkZxSnZwOHp1UW1LZ05m?oc=5"
+    },
+    {
+      "name": "PBS",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRGxwYmFnVDNvNFpoVWNnenNEZi1hTW04RUJhdDlLdFB6Q0R3WEItbkUwUzhFRDZfdmM3U20zOFRHNktRYURXWWw3aUEzSk9kNVVWNVVmb3RvTDBGLTZhcDFLcmdxN3pQcUhQeXJ4dDRsZ19oVXBSc2xMY3F4djdwd0tKeUVBQXU2XzNXeFR3ZVNLZjFNUzVZUk9XT21sMUd1dUlCMFFnRQ?oc=5"
+    }
+  ]
+}
