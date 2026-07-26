@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-07-26T00:58:43.595Z",
+  "query": "US Financial Markets",
+  "headline": "Fed Policy, Inflation Data, and AI-Driven Earnings Continue to Steer Volatile US Markets",
+  "consensus": "Coverage broadly agrees that US stock markets in this period were being driven primarily by Federal Reserve policy signals, inflation data, and corporate earnings, especially from AI-linked technology companies.",
+  "sections": [
+    {
+      "subheading": "Market Moves and Volatility",
+      "framingLabel": null,
+      "sentences": [
+        {
+          "text": "On one recent trading day the Dow rose while the S&P 500 and Nasdaq retreated after a hotter-than-expected inflation print triggered a broader tech sell-off.",
+          "sources": [
+            "Yahoo Finance"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "On another day tech again led the market lower and bank stocks slid following their earnings reports.",
+          "sources": [
+            "Yahoo Finance"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "At other points the S&P 500 and Nasdaq notched a fourth consecutive day of gains as investors looked ahead to the Fed's upcoming meeting.",
+          "sources": [
+            "Yahoo Finance"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Reuters framed the broader backdrop as soaring US stocks heading into a pivotal week combining tech-led earnings with a Fed meeting.",
+          "sources": [
+            "Reuters"
+          ],
+          "disputed": false
+        }
+      ]
+    },
+    {
+      "subheading": "Fed Policy, Inflation, and Earnings Catalysts",
+      "framingLabel": null,
+      "sentences": [
+        {
+          "text": "Multiple outlets tied the stock market's trajectory directly to Federal Reserve rate decisions combined with AI-related earnings results.",
+          "sources": [
+            "Devdiscourse",
+            "Forbes"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Investopedia's weekly market previews tracked a rotating set of Fed-linked catalysts, including inflation data and Fed Governor Kevin Warsh's testimony before Congress alongside bank earnings, a post-Fed inflation reading paired with earnings from a major memory-chip maker, the Fed's policy meeting alongside Magnificent Seven earnings, and separate data on inflation, housing, and consumer sentiment alongside earnings from Oracle and Adobe.",
+          "sources": [
+            "Investopedia"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Gotrade similarly flagged PCE inflation data, Micron earnings, and a hawkish Fed stance as the key drivers for the week.",
+          "sources": [
+            "Gotrade"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "U.S. Bank offered a broader look at what is driving markets in 2026 under the Trump administration.",
+          "sources": [
+            "U.S. Bank"
+          ],
+          "disputed": false
+        }
+      ]
+    },
+    {
+      "subheading": "Warnings on Inflation and Fed Policy",
+      "framingLabel": "One perspective:",
+      "sentences": [
+        {
+          "text": "24/7 Wall St. warned that the Federal Reserve is quietly fueling the biggest inflation spike since 2021.",
+          "sources": [
+            "24/7 Wall St."
+          ],
+          "disputed": true
+        },
+        {
+          "text": "The Motley Fool reported that the stock market sounded an alarm after investors received a warning from the Fed, arguing that historical patterns point to what typically happens next.",
+          "sources": [
+            "The Motley Fool"
+          ],
+          "disputed": true
+        }
+      ]
+    },
+    {
+      "subheading": "Analytical and Metric-Based Outlooks",
+      "framingLabel": "Another angle:",
+      "sentences": [
+        {
+          "text": "Morningstar took a more analytical approach, highlighting a simple metric it says could help predict future US stock market returns.",
+          "sources": [
+            "Morningstar"
+          ],
+          "disputed": true
+        }
+      ]
+    }
+  ],
+  "disagreementGroups": [
+    {
+      "stance": "Alarm over Fed-driven inflation and market risk",
+      "sources": [
+        "24/7 Wall St.",
+        "The Motley Fool"
+      ]
+    },
+    {
+      "stance": "Measured, metric-based analytical framing",
+      "sources": [
+        "Morningstar"
+      ]
+    }
+  ],
+  "sourceList": [
+    {
+      "name": "U.S. Bank",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ?oc=5"
+    },
+    {
+      "name": "Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRS1BOUNiOWQ4VWpFcUhRY0RmTGFvcnFScjFraHM2SlMxS3Q3VjB0eDYyazBzdlh1bVVxN1ZJb3B3aTFkY24xeUt6S1l2ejJjeUhQTDl1SFBBbUpUM0VySjg2NzN1SkNNTUtfX0g0aUlLSTA5dllCd3lMU0p5R2g2VEhhc1BQTm9nLVVJc3RBT0ZNX0IwSFhpV0xBcGN5ZzhnYUVXRm5ISWFoY1JzYWh5TUNLLVRCeTlRMVcwYld2QnN1RFN1OF9HS2NfaE0teUxucE1MZ1FDdG9yRXM?oc=5"
+    },
+    {
+      "name": "Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQW1NNjJmMVY2ZXRaRTNrWEJ0elBfMW54SmFIelFqWUtWVkw3OUVvV21jTUZBb2pNekZqcktRTm9MWnV3dzItUGlIbk1ucnMxRUJQZ3MzV0llMTFiLTVETm1XLWhKaWxDajNCM0p4X3VSWThHcUhweWpNU19tS184X1lZRXhzUml4NEhVSTRrd2pZZWhYRWZMYlhfQ3ZxZVNxQThWWm8tTjlLd2FFUzg4SEFXMA?oc=5"
+    },
+    {
+      "name": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYmk1STVwWkVMbjhXdFVqZ25HWmU3akx5cXpqSDJLSmgzbkl3ZTZmQ2lXOFpuTC16ZnBzSlV0UmVFTnFudUJnV2phbEJ6ZVpKZFc1bTlOcms5enpId0NVeG9pbzZ4UHd4eEU1eGZkcGdRejhwUlo5RTZTRWlla0dEUXdaT0k1MFEwczEtUVpJNWVUVU8zR1VNMUFGMW0wWEpvUGp2cTdxRWxUdGJmOGdSV0pDUUxUQUlHS1hlVmVRNUlIXzV4VDJiRVFmUFhuR0wtdFdGbDRkbkprS3RtNEE?oc=5"
+    },
+    {
+      "name": "Gotrade",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBoY2txeDd1RFNpRy1KWlBPSzZJZWw5T2xOWm45d2RxZWFfdlBpSG1QLUtoMDlNV3FUYlRoWkptbUpLWW9laTg5a084blVka3dRaFhWUzF4THp3cFV2MGlueTFGb0taZzBXQlktalNRRm9jU09vU2FFTDFR?oc=5"
+    },
+    {
+      "name": "24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSFRJb1JwcnI0VEhTem9kUlFLbTlFdHRwVHdyZnlsUFZyQVUwNl9kNjRLNE1vcG1meFFjcm5oMnV5S1VHOXdUQ2Zydnk3ekRiSzYzTVNWblVCYWRvYno2SkFJNS1WakFXWXN6VHM3TEhkbml3QjNDT0Ztd0x2eFlhMDFXZFJOVFZWakZ3Y0dmYnVFeV96SEtlaWl2bFVUckJZV0IydjMyMzNYTjNvM2hYRFZ3UE5KcGNuX3p1LVJQS1lGaEN4TnQ1Rg?oc=5"
+    },
+    {
+      "name": "Devdiscourse",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVU9XV3pQWmJEMTVxREU5REpzakVEX29lWF93VFFaSVcyYVNnVXk2cnQxZ3ZFSlVkN0Y1b09QeXo3ZFZoektSQ0RKVmVMNTh4RGowTGdacnVVSVFROEl6MFhRcnM1RjMzUVNMNUtEcXR4b08xWXZDeldUN3otbDVaWndjZms0Um8wSHdWaHRnNXoycngyWnJIdk5LcGNpU1pkSTBvNFdHcjRzUTFqMDJKTFhPLTJhUUUwTTBFWVFQRnprM29T0gHEAUFVX3lxTE9VT1dXelBaYkQxNXFERTlESnNqRURfb2VYX3dUUVpJVzJhU2dVeTZydDFndkVKVWQ3RjVvT1B5ejdkVmh6S1JDREpWZUw1OHhEajBMZ1pydVVJUVE4SXowWFFyczVGMzNRU0w1S0RxdHhvTzFZdkN6V1Q3ei1sNVpad2NmazRSbzBId1ZodGc1ejJyeDJackh2TktwY2lTWmRJMG80V0dyNHNRMWowMkpMWE8tMmFRRTBNMEVZUVBGemszb1M?oc=5"
+    },
+    {
+      "name": "The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd2R6Z0JISngydTZPOWtYUTlEUWVOb0w3VFJDZ21WRWV0NEs3QXB4ZGZHcG1zNzNOa3RZTmgwdWc2R0hIVnBMcXpKdl9hcjVSeVd5bkRtc3BRRnlpaWFPdzk0cTBWV1FycHFxdEZLcms5dVN5S1RoQThRQ2JaR1JRZmFTNzVTSlYzaVJDZHVpckk3QVRX?oc=5"
+    },
+    {
+      "name": "Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUGRwcjY5ZWFBbGxKNzNFQnZiY0lFeUd4Smw3ZmlGTjRYNjZIN0VWZ3JMdVk4MTJSX3FZZEhrd3Q4UnN4djVFNXVPX1ludUpXNU52Z3hZRTdPeTliUVNtd013STVhc2l0cnVORm1PQlVBM2dmOXoxZkhSbmNtbzN2Z1ZBZGNVaWZRX1VmWkdkbDNtWGF5N0Jkd0hJYjExdVNCMmZuLVh4NExSZHRM?oc=5"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQm9RRmotOFkyNjhOVmtYM2RjbWFhT1VzeUpYYVRzLUZPbmlhM3V1YldhVG9SV2dFZUlBYmg0ZW9pdGpYekRGUkZLNFdMVlJmR2dUbXp2SjZHM2I5VEliT1loMEQxckNoNVN2R2pvNzNXaFhobWdpMXFRQ2ZZYVA2bkN3cnBMS2tXYVVuSWV2R21Vd1BVZEJLcXhKYWo5d2Z2bEdaa2tDMzczMEpCZ282eThaZzVJV2tNRDBweE9B?oc=5"
+    }
+  ]
+}

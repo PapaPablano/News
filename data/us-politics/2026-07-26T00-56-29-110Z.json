@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-07-26T00:56:29.110Z",
+  "query": "US Politics",
+  "headline": "Trump pushes emergency election-rule changes and fires elections commission members as Supreme Court ruling reshapes midterm map fight",
+  "consensus": "Multiple outlets report that President Trump is pushing aggressive executive action on election rules ahead of the midterms while the Supreme Court's narrowing of the Voting Rights Act reshapes the redistricting and turnout landscape.",
+  "sections": [
+    {
+      "subheading": "Trump's election-rule push",
+      "framingLabel": "One perspective: Trump pressing ahead",
+      "sentences": [
+        {
+          "text": "In a prime-time address, President Trump laid out priorities that commentators distilled into several key takeaways for his agenda.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Trump has fired members of a bipartisan elections commission as part of a broader effort to reshape how elections are administered.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "With time running out before the midterms, Trump is digging in on changing election rules despite the compressed timeline.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": true
+        },
+        {
+          "text": "He has been urged to declare a national emergency to seize greater executive power over elections, and has since made his latest emergency declaration.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "A voting bill Trump says will secure Republican victory could, according to analysis, ultimately backfire on the party that champions it.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": true
+        }
+      ]
+    },
+    {
+      "subheading": "Republican pushback",
+      "framingLabel": "Another angle: GOP resistance and scrambling",
+      "sentences": [
+        {
+          "text": "Trump's latest emergency declaration has left his own Republican allies scrambling to respond, according to reporting.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": true
+        },
+        {
+          "text": "He has also shown defiance in the face of what is described as rare resistance from congressional Republicans to his election-related moves.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": true
+        }
+      ]
+    },
+    {
+      "subheading": "Supreme Court and the Voting Rights Act",
+      "framingLabel": null,
+      "sentences": [
+        {
+          "text": "The Supreme Court has weakened a landmark provision of the Civil Rights-era Voting Rights Act, a decision reported as aiding GOP efforts to control the House.",
+          "sources": [
+            "PBS",
+            "The Washington Post"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "The ruling limits a key provision of the law that had long been used to challenge discriminatory electoral maps.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "In response, Black members of Congress say they are focusing on driving 'massive voter turnout' to counter the effects of the gutted civil rights law.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Analysts note that with GOP wins on election maps following the ruling, Democrats now face a steeper climb to electoral victory.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        }
+      ]
+    },
+    {
+      "subheading": "Midterm landscape and Democratic tensions",
+      "framingLabel": null,
+      "sentences": [
+        {
+          "text": "With midterm elections nine months away, analysts are assessing the overall political landscape heading into the vote.",
+          "sources": [
+            "Council on Foreign Relations"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "A special congressional election in New Jersey is being watched closely as an early indicator of voter sentiment.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "A GOP loss in Trump's own Mar-a-Lago district is being read as a possible signal about broader midterm dynamics.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Separately, two once-friendly rich Democrats are now spending millions of dollars attacking each other, highlighting internal party divisions.",
+          "sources": [
+            "The Washington Post"
+          ],
+          "disputed": false
+        }
+      ]
+    }
+  ],
+  "disagreementGroups": [
+    {
+      "stance": "Trump pressing ahead with election rule changes",
+      "sources": [
+        "The Washington Post"
+      ]
+    },
+    {
+      "stance": "Republican allies resisting or scrambling in response",
+      "sources": [
+        "The Washington Post"
+      ]
+    }
+  ],
+  "sourceList": [
+    {
+      "name": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWTNNQWxOZFJGMVV0aUVSdE5TM0JrVVM0dGNJUFRjczFtdk5MUmx0eU9iVC1JVDJmdzRYVDhYXy1zT3N1V2NaYmlGdW9HWlpoYXFna282VmRieXNwWUIzUEVJdkdYbEhQRzhBTWdzS2xCdmgyQWdiWWIta1BqcHJDNW9UcHVqWllaS0hOMDRlU1g1a0xrbU9xQ244UjNOS2JEa2dLbjVlWG03Zw?oc=5"
+    },
+    {
+      "name": "PBS",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX1FaT3V3bVM1RTNvYVpmOENUeFRYQjVpOENaNnpKRkNLZnowbGFLU2NKVU9JOTd5S3RYcDY4ZzZBeUU3MklyUWdBaEZ0N2o1eFVCcnBIU0lFZ01hVWV1TFV0TlNNU19uTzNnYndVQTRDLVc5cjFvRmNXV3ozNzhxVE1meDhTaEpCRFJJYzQ0UHNobGdwRVc5MWdnR2pRRUdIQnpoRFpSeU1KVEN4bDRPTGZ1anhWT3o3T1c4ZDl2STlVWkFLcXg2Q1NMX0x4VTVrRXfSAdcBQVVfeXFMT0VVR1o4VEgybFhVbVRBWXppRWJMblFoZ0hybUFDNXY5Zjg5Q1BzV09qZ3ZaSXlWNzRvbzZRWkdlS2NOeEpHQzQ3N1Jfd29mVmE0TG9Ecm9iM1Y2SmxPdzg1SlItNW5SQVJ0VE1uNnZBcmNKVFppbmc5SnNEdlNrR1A2SE95RlQ2QkN2R01WY3podURLUkRNelU1Wmk0aE1STmd1SWRLNHllTm1XVmFlZ1FlS1N5aHdDbEpoWnoySnlLcUVvRG9SZ195eUxFWWZmVWdSQkFlVEE?oc=5"
+    },
+    {
+      "name": "Council on Foreign Relations",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EbXZEMnpQd252ODlMNlJxRVhOOGNNel83Qk9iZWQzbHNidUNmaGgtaFdVbTdIRUNNRE1kNEdnS3dvUGhhellRTU5ManVkSmUtdHdUNDBMeEpBOUdESGdkMDNlZ1laX0I5NGFwSkYxd0thTlZfN2c?oc=5"
+    }
+  ]
+}

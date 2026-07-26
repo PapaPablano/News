@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-07-26T00:55:30.977Z",
+  "query": "US National News",
+  "headline": "Trump escalates fight with Smithsonian while administration pursues Iran diplomacy, policy changes, and personnel moves",
+  "consensus": "Multiple outlets report that President Trump took a series of high-profile actions this period, including a public dispute with the Smithsonian, involvement in Iran-related diplomacy, and domestic policy and personnel decisions.",
+  "sections": [
+    {
+      "subheading": "Trump vs. the Smithsonian",
+      "framingLabel": null,
+      "sentences": [
+        {
+          "text": "President Trump ordered new signs to be posted outside the Smithsonian's National Museum of American History warning that its depiction of U.S. history is, in his view, 'inaccurate.'",
+          "sources": [
+            "Google News (Facebook aggregation)",
+            "ABC News"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "The move marks the latest escalation in an ongoing dispute between the president and the museum over how American history is presented.",
+          "sources": [
+            "ABC News"
+          ],
+          "disputed": false
+        }
+      ]
+    },
+    {
+      "subheading": "Iran Diplomacy and Conflicting Signals",
+      "framingLabel": "One perspective: deal reached",
+      "sentences": [
+        {
+          "text": "CBS News and NBC News reported that the United States and Iran reached a framework deal intended to end hostilities and reopen the Strait of Hormuz, a characterization also offered by Pakistan's prime minister.",
+          "sources": [
+            "CBS News",
+            "NBC News"
+          ],
+          "disputed": true
+        },
+        {
+          "text": "A source told CBS News that Trump had personally edited a possible U.S.-Iran agreement, including provisions on enriched uranium and the Strait of Hormuz.",
+          "sources": [
+            "CBS News"
+          ],
+          "disputed": false
+        }
+      ]
+    },
+    {
+      "subheading": "Iran Diplomacy and Conflicting Signals",
+      "framingLabel": "Another angle: deal in doubt",
+      "sentences": [
+        {
+          "text": "Other CBS News reporting described Trump calling Iran's response to a peace proposal 'totally unacceptable,' suggesting the agreement was far from settled.",
+          "sources": [
+            "CBS News"
+          ],
+          "disputed": true
+        },
+        {
+          "text": "Separately, Trump said Israeli Prime Minister Netanyahu would do 'whatever I want' regarding Iran and that he was 'in no hurry' to finalize a deal, while Israeli strikes in Lebanon were reported as threatening the fragile agreement.",
+          "sources": [
+            "CBS News"
+          ],
+          "disputed": true
+        },
+        {
+          "text": "Amid the uncertainty, Iran's foreign minister traveled to Pakistan and Russia after a planned trip by U.S. envoys was canceled.",
+          "sources": [
+            "CBS News"
+          ],
+          "disputed": false
+        }
+      ]
+    },
+    {
+      "subheading": "Domestic Policy and Personnel Actions",
+      "framingLabel": null,
+      "sentences": [
+        {
+          "text": "U.S. News & World Report detailed that Trump halted a housing bill and turned his focus toward voting law changes.",
+          "sources": [
+            "U.S. News & World Report"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "The administration also fired the independent board overseeing the National Science Foundation, according to PBS.",
+          "sources": [
+            "PBS"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Trump nominated U.S. Attorney Jay Clayton to serve as Director of National Intelligence, Federal News Network reported.",
+          "sources": [
+            "Federal News Network"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "U.S. News & World Report also reported that Trump wants to cut off trade with Spain, outlining what the U.S. currently gains from trade with the country.",
+          "sources": [
+            "U.S. News & World Report"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Separately, U.S. News & World Report summarized the major cases the Supreme Court decided this term.",
+          "sources": [
+            "U.S. News & World Report"
+          ],
+          "disputed": false
+        }
+      ]
+    },
+    {
+      "subheading": "Immigration Enforcement and Elections",
+      "framingLabel": null,
+      "sentences": [
+        {
+          "text": "The BBC reported that a Colombian national was killed by an ICE agent during an enforcement operation in Maine.",
+          "sources": [
+            "BBC"
+          ],
+          "disputed": false
+        },
+        {
+          "text": "Separately, NBC News provided live results and mapping for the 2026 national primary elections.",
+          "sources": [
+            "NBC News"
+          ],
+          "disputed": false
+        }
+      ]
+    }
+  ],
+  "disagreementGroups": [
+    {
+      "stance": "U.S.-Iran deal reached/near completion",
+      "sources": [
+        "CBS News",
+        "NBC News"
+      ]
+    },
+    {
+      "stance": "Deal uncertain or rejected by Iran",
+      "sources": [
+        "CBS News"
+      ]
+    }
+  ],
+  "sourceList": [
+    {
+      "name": "Google News (Facebook aggregation)",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQWRfWXRibmU0eWZvS1psRWdaZE1rdzR2c0xLU2lEZHNYcmNpRVBSdnVqbU15MEVSUlYwM0FfNjI5Z05KZU5YelRwQWVHblh2dkUwUXRHQWZ4OUEwSm9iVVRvcVM0RFhpYVlzMFVpLVhQNC1QN2p1TWhmaTN1ZnEtcVgxQ0hEZ0dMVHRVVWphZ3RhVnZqY2FoSXoyVVM2d2NqY2tzVWxsRDdGTWJwbnM2MEk2MTVQeFJhZUlGUm9Qc05vWHJ1VVdaOWFLSUFGMFJRQ1pv?oc=5"
+    },
+    {
+      "name": "ABC News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZW5vNzRJbE9BUVRMY2JYVVJpbWFJdXlDeWFvdWxSU04wLVM4dnNLMlNuTzRMVjdXODAya1VqdEhPZ3ZUOF96M0xNZEJMRERtZ19DRzBVbF8zS2JyTDBJV3cwb09RWXhBSGZGZTJselRVaUdZZ3ZMZm1obVlfekhMVEZfTmlrYzNDNFVDV01sN0F3eDlvSWp6SWNnSzRidkN4MllZV1Fn0gGrAUFVX3lxTE5XQWR4cUNwZERXdjZheDlvZ3RaMWZENW1KRDgwdm54eGNlY0p1VkFkcjNjVFpEelhKLXJqWnBQb2hBVC1Iem5CM0VldzVTM1V4ZGlLbGw3OWVLUzRQOHlGOFJjWTk1SmlUYmFjeFFNckRsLWFDN0ZGR1daNDdxcTBiVG9SSEZ2OXloVFF5VzVFbFhtSmlNbmp2aGhrTV80aWkyV2ozbzRxeHM2UQ?oc=5"
+    },
+    {
+      "name": "NBC News",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkNV9IM2xTNmVHV2tnUHd5NGRPT0cxSnY5blVHWG1UdlF3U2JDay1jZjE0MGp5S1REc0syWEpuOHBKbHpodnExWm1OcF9UTlhQWl9DeGZYWkk1SXhKUFdNcE8tdWhUODk4OERTSGg3WnIwdw?oc=5"
+    },
+    {
+      "name": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3SlYtV2h3dG4ta3B4WGR3bVJrZHk3SzhEQ05nc3hDcHBkOElzYnR1NHpnSVdKQS1WZURyTWw4QkFNY19KbHFvNUJWQXFEOG9WeUE1TTQxSmtQQQ?oc=5"
+    },
+    {
+      "name": "U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQWpPb1FETmNRa2RiTVhJeWRyS0RkNmpQRFZFemJlblNpWkRSNnpENVNVemhpcVZiMzVyVDFwY1h6NkpQS3dsS2U3V2pmRXE4dkFLZ1FRTFdwbVUxcnNCVTZWd3FTMVgwMzJDd0hYUGFoWXZDUVl5X2xZenZpRzQ0cldRRW1XMzZnWGZjS2ZfblBvZ3g1bTBDZE5UcXdsTjllRW9ta1BBLTBqSFcyRmxzODhrUnJMaWd6LWgyYk9kcUsxN2RGRm1zNG4xZm5DVVR4dkY0dV9SZm9DQQ?oc=5"
+    },
+    {
+      "name": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUlhvS2pRZXhlSm5RRDdYRWdDTXVZc3dSVWw3SVBsa05JbEltWFh1dnVLaExCUUN2TzJoN3F3cVlXRDJocVJpeWprTEdPek10WERFVHc2bXlWaUxpcXBqYUNQTDRqMGlmU0RybHJXN0xtbC1DbmlrYTF4NVhlZEVGaUF4clFoSjJIQ2xFMGQ2Z3hSOE3SAZgBQVVfeXFMT2U1NlBKMl9IMHdqRXY5Y1dncU5jQnZmcXlibkhBcTIxSDh4VzEwS1R5eEEyZU1hLXBSR21JRTVZUVFQYzB3SkVRU2VGTDlhVVJwZFdKYVY4VkU4RXhITnBkd216dTFwWTUyczNBZnZsSjgwUVQzVGg1RUN0SS0zYjhCUUZKTmZ5ZWVDbXRZVVJTWU1JUzdFMm0?oc=5"
+    },
+    {
+      "name": "Federal News Network",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRHhFR1ZHRVdMenBfVERidURfOUE2b1IzcFA4ZWpqZkFJSWE2WmxHcmZ5akRqRGh1Q2J5aEdNdzd4SGVfYi1LcDZWT21MaE1JUUYwMC15MnlKR1RnTlRzSEdpaWJQdXRqeWNka1NXZG1oODVRNDczd3N5Szh0U2dkTzU4S1Z3U2x6Vjl5MDBrczhpWTVRdXN1c2Q1eEh3bHdROGRBUWl3ME9odERtN1dudWJvWW95dWJIUXpDWFVfRHpHNkZxSnZwOHp1UW1LZ05m?oc=5"
+    },
+    {
+      "name": "PBS",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRGxwYmFnVDNvNFpoVWNnenNEZi1hTW04RUJhdDlLdFB6Q0R3WEItbkUwUzhFRDZfdmM3U20zOFRHNktRYURXWWw3aUEzSk9kNVVWNVVmb3RvTDBGLTZhcDFLcmdxN3pQcUhQeXJ4dDRsZ19oVXBSc2xMY3F4djdwd0tKeUVBQXU2XzNXeFR3ZVNLZjFNUzVZUk9XT21sMUd1dUlCMFFnRQ?oc=5"
+    }
+  ]
+}
